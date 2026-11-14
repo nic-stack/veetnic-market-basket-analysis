@@ -1,0 +1,10 @@
+step,check_name,n,treatment
+1,Raw lines loaded (POS_A + POS_B),8217,Starting point.
+2,POS_B dates converted from DD/MM/YYYY,4076,Converted to ISO dates so both systems match.
+3,POS_B discounts converted from percent to fraction,4071,Divided by 100 so both systems use the same scale.
+4,Lines that could not be matched to a product,0,"None expected; any would be investigated, not dropped silently."
+5,Repeat scans removed,12,"Removed: exact copy of another line (same order, product, quantity and discount)."
+6,Same product on separate lines with different quantity or discount,0,"Kept: could be a real second purchase, so the quantities add up."
+7,Zero-quantity lines removed,6,Removed: nothing was sold.
+8,Missing discounts set to zero,9,Assumption: no discount was given.
+9,Clean sales lines,8199,Used for all analysis.

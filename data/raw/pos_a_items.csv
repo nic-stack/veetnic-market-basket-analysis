@@ -1,0 +1,4142 @@
+order_id,product_name,quantity,discount
+V00004,Dish Soap,2,0.0
+V00004,Floor Cleaner,1,0.0
+V00004,SPONGES,2,0.05
+V00004,Wall Cleaner,3,0.0
+V00008,Bread,3,0.0
+V00008,Cheese,3,0.0
+V00008,Milk,1,0.05
+V00008,Polony,1,0.0
+V00012,Butter,2,0.0
+V00012,Dish Soap ,2,0.0
+V00012,Floor Cleaner,2,0.0
+V00012,Wall Cleaner,2,0.0
+V00015,Floor Cleaner,1,0.0
+V00015,Tea,1,0.05
+V00015,Wall Cleaner,1,0.0
+V00016,Cooking Oil,1,0.0
+V00016,Dish Soap,1,0.1
+V00016,Floor Cleaner,1,0.1
+V00016,Wall Cleaner,2,0.0
+V00019,Floor Cleaner,3,0.0
+V00019,Soap,2,0.0
+V00020,Floor Cleaner,2,0.05
+V00020,Soap,1,0.0
+V00022,Dish Soap,1,0.05
+V00022,Floor Cleaner,3,0.0
+V00022,Polony,1,0.0
+V00022,Sponges,3,0.05
+V00022,Wall Cleaner,2,0.0
+V00023,Butter,1,0.1
+V00023,Milk,1,0.0
+V00023,Soap,1,0.0
+V00023,Sugar,2,0.0
+V00029,Butter,1,0.05
+V00029,Cheese,2,0.1
+V00029,Floor Cleaner,1,0.0
+V00029,Sponges,1,0.0
+V00031,Floor Cleaner,1,0.0
+V00031,Rice,1,0.0
+V00031,Wall Cleaner,1,0.0
+V00033,Bread,1,0.0
+V00033,Dish Soap,2,0.0
+V00033,Milk,1,0.0
+V00033,Rice ,2,0.0
+V00036,Dish Soap,1,0.0
+V00036,Floor Cleaner,1,0.1
+V00036,Wall Cleaner,3,0.0
+V00037,Bread,3,0.1
+V00037,Butter,2,0.05
+V00037,Eggs,1,0.05
+V00037,Milk,1,0.0
+V00038,Bread,1,0.0
+V00038,Butter,3,0.1
+V00040,Dish Soap,3,0.0
+V00040,Floor Cleaner,1,0.0
+V00040,Milk,1,0.0
+V00040,Sugar,2,0.1
+V00042,Bread,3,0.05
+V00042,Butter,2,0.0
+V00042,Cheese,1,0.1
+V00042,Polony,1,0.05
+V00043,Bread,3,0.0
+V00043,Milk,1,0.05
+V00043,Polony,2,0.1
+V00044,Cooking Oil,1,0.0
+V00044,Wall Cleaner,1,0.0
+V00047,Rice,1,0.0
+V00047,Sponges,3,0.0
+V00047,Tea,1,0.0
+V00047,Wall Cleaner,2,0.0
+V00048,Butter,3,0.0
+V00048,Sugar,1,0.0
+V00048,Wall Cleaner,3,0.0
+V00049,Bread,1,0.1
+V00049,Milk,1,0.1
+V00051,Dish Soap,3,0.0
+V00051,Eggs,3,0.1
+V00051,Floor Cleaner,2,0.05
+V00051,Rice,2,0.0
+V00051,Sugar,2,0.0
+V00057,Bread,1,0.1
+V00057,Milk,3,0.1
+V00057,Polony,2,0.0
+V00058,Soap,3,0.1
+V00058,Sponges,1,0.0
+V00058,SUGAR,2,0.05
+V00060,Bread,1,0.0
+V00060,Butter,1,0.05
+V00060,Milk,2,0.05
+V00060,Sponges,2,0.1
+V00063,Bread,3,0.0
+V00063,BUTTER,1,0.0
+V00063,Milk,2,0.05
+V00064,cheese,1,0.0
+V00064,Polony,3,0.0
+V00064,Wall Cleaner,1,0.0
+V00066,Bread,1,0.0
+V00066,Cheese,1,0.1
+V00066,Milk,2,0.0
+V00066,Sponges,2,0.1
+V00066,Sugar,3,0.0
+V00069,Dish Soap,2,0.1
+V00069,Floor Cleaner,1,0.0
+V00069,Tea,3,0.0
+V00069,Toothpaste,1,0.0
+V00069,Wall Cleaner,1,0.1
+V00070,Bread,3,0.0
+V00070,Cheese,1,0.0
+V00070,Sponges,1,0.0
+V00072,Bread,3,0.1
+V00072,Butter,2,0.0
+V00072,Milk,1,0.0
+V00073,Bread,1,0.05
+V00073,Butter,1,0.05
+V00073,Cheese,1,0.1
+V00073,Milk,2,0.0
+V00073,Polony,1,0.1
+V00074,Dish Soap,1,0.0
+V00074,Floor Cleaner,1,0.0
+V00074,Wall Cleaner,1,0.0
+V00075,Floor Cleaner,1,0.0
+V00075,Sponges,1,0.1
+V00077,Bread,2,0.0
+V00077,Butter,2,0.05
+V00077,Milk,3,0.0
+V00077,Polony,1,0.0
+V00079,Cheese,1,0.05
+V00079,Eggs,1,0.0
+V00079,Floor Cleaner,1,0.05
+V00079,Milk,1,0.05
+V00079,Sponges,2,0.1
+V00080,Bread,1,0.0
+V00080,Cheese,2,0.0
+V00080,Polony,1,0.1
+V00080,Rice,1,0.0
+V00081,Butter,3,0.0
+V00081,Soap,2,0.0
+V00081,Sponges,2,0.0
+V00083,Polony,2,0.0
+V00083,Sponges,1,0.05
+V00086,Floor Cleaner,1,0.0
+V00086,Sponges,1,0.05
+V00089,Dish Soap,1,0.0
+V00089,Floor Cleaner,3,0.05
+V00089,Wall Cleaner,1,0.0
+V00090,Eggs,3,0.0
+V00090,Wall Cleaner,1,0.0
+V00091,Bread,1,0.0
+V00091,Butter,1,0.0
+V00091,Milk,2,0.0
+V00091,Wall Cleaner,3,0.05
+V00092,Eggs,1,0.0
+V00092,Sponges,3,0.0
+V00094,Bread,2,0.1
+V00094,Cooking Oil,1,0.0
+V00094,Milk,1,0.1
+V00094,Sugar,2,0.0
+V00095,Butter,1,0.0
+V00095,Floor Cleaner,1,0.1
+V00096,Dish Soap,1,0.0
+V00096,Sugar,1,0.0
+V00098,Butter,1,0.0
+V00098,Cooking Oil,3,0.0
+V00098,Milk,1,0.0
+V00099,Bread,1,0.1
+V00099,Butter,3,0.0
+V00099,Dish Soap,2,0.1
+V00099,Floor Cleaner,2,0.0
+V00103,Floor Cleaner,2,0.05
+V00103,Sponges,1,0.0
+V00103,Wall Cleaner,2,0.05
+V00104,Dish Soap,3,0.0
+V00104,Milk,1,0.1
+V00104,Sponges,2,0.05
+V00104,Toothpaste,1,0.1
+V00106,Floor Cleaner,1,0.0
+V00106,Sugar,2,0.0
+V00106,Wall Cleaner,1,0.05
+V00108,Bread,2,0.0
+V00108,butter,3,0.0
+V00108,Milk,2,0.05
+V00115,Floor Cleaner,3,0.0
+V00115,Wall Cleaner,3,0.0
+V00116,Eggs,1,0.0
+V00116,Milk,1,0.0
+V00116,Polony,1,0.05
+V00117,Cooking Oil,2,0.05
+V00117,Eggs,2,0.0
+V00117,Floor Cleaner ,1,0.0
+V00118,Eggs,1,0.0
+V00118,Soap ,1,0.0
+V00119,Bread,1,0.0
+V00119,Cheese,1,0.0
+V00119,Cooking Oil,3,0.0
+V00119,Milk,2,0.0
+V00120,Bread,1,0.0
+V00120,Cheese,1,0.0
+V00120,Dish Soap,2,0.0
+V00120,Milk,2,0.05
+V00120,Sugar ,3,0.0
+V00121,BREAD,1,0.1
+V00121,Butter,1,0.0
+V00121,Milk,3,0.1
+V00121,RICE,3,0.1
+V00122,Bread,2,0.0
+V00122,Butter,1,0.1
+V00122,Milk,1,0.05
+V00123,Bread,2,0.0
+V00123,Butter,2,0.0
+V00123,Cheese,2,0.0
+V00123,Milk,1,0.05
+V00124,BREAD,1,0.0
+V00124,Cheese,2,0.1
+V00124,Milk,2,0.05
+V00124,Polony,2,0.0
+V00126,Bread,2,0.1
+V00126,Butter,1,0.0
+V00126,Cheese ,1,0.0
+V00126,Milk,1,0.0
+V00126,Polony,2,0.0
+V00127,Floor Cleaner,1,0.0
+V00127,Milk,2,0.0
+V00127,Wall Cleaner,1,0.0
+V00130,Bread,2,0.0
+V00130,Butter,2,0.0
+V00130,Milk,1,0.0
+V00132,Bread ,2,0.05
+V00132,Butter,3,0.0
+V00132,Cheese,3,0.0
+V00132,Milk,2,0.0
+V00132,Polony,2,0.05
+V00133,Soap,2,0.1
+V00133,Sponges,1,0.05
+V00136,Cooking Oil,3,0.0
+V00136,Milk,3,0.1
+V00136,Tea,2,0.0
+V00137,Eggs,1,0.0
+V00137,Floor Cleaner,1,0.1
+V00137,Sponges,2,0.0
+V00137,Toothpaste,3,0.0
+V00137,Wall Cleaner,1,0.05
+V00139,Bread,1,0.0
+V00139,Butter,2,0.0
+V00139,Cheese,3,0.0
+V00139,Milk,1,0.0
+V00146,Bread,1,0.1
+V00146,Butter,1,0.0
+V00146,Cheese,2,0.05
+V00146,Milk,2,0.0
+V00149,Butter,1,0.0
+V00149,Cheese,2,0.0
+V00149,Milk,2,0.1
+V00149,soap,1,0.0
+V00150,Dish Soap,1,0.0
+V00150,FLOOR CLEANER,2,0.05
+V00150,Wall Cleaner,2,0.0
+V00153,Bread,2,0.0
+V00153,Butter ,3,0.05
+V00153,Cheese,1,0.0
+V00153,Milk,1,0.0
+V00155,Bread,1,0.0
+V00155,Butter,1,0.0
+V00155,Cheese,2,0.0
+V00155,Milk,2,0.0
+V00155,Sugar,2,0.0
+V00156,Bread,3,0.05
+V00156,Butter,1,0.0
+V00156,Milk,1,0.0
+V00156,Sugar,1,0.0
+V00157,Bread,1,0.05
+V00157,Butter,2,0.0
+V00157,Milk,3,0.05
+V00158,Cooking Oil,2,0.0
+V00158,Dish Soap,2,0.0
+V00158,EGGS,2,0.0
+V00159,Dish Soap,1,0.0
+V00159,floor cleaner,2,0.0
+V00159,Milk,3,0.05
+V00159,Wall Cleaner,3,0.05
+V00160,Bread ,3,0.0
+V00160,Butter,2,0.0
+V00160,Floor Cleaner,1,0.0
+V00160,Milk,1,0.0
+V00161,Cooking Oil,2,0.05
+V00161,Floor Cleaner,1,0.05
+V00162,Bread,3,0.0
+V00162,Butter,1,0.1
+V00162,Floor Cleaner,2,0.0
+V00163,Cheese,1,0.0
+V00163,Cooking Oil,2,0.0
+V00163,Floor Cleaner,3,0.1
+V00163,Wall Cleaner,1,0.0
+V00165,Rice,3,0.0
+V00165,Sugar,1,0.05
+V00166,bread,1,0.0
+V00166,Butter,1,0.0
+V00166,Cheese,1,0.0
+V00166,Milk,1,0.05
+V00168,Butter,1,0.1
+V00168,Dish Soap,2,0.1
+V00168,Floor Cleaner,1,0.1
+V00168,Wall Cleaner,1,0.0
+V00169,Butter,2,0.0
+V00169,Polony,3,0.0
+V00169,Sponges,2,0.1
+V00169,Tea ,1,0.0
+V00170,Bread,1,0.0
+V00170,Butter,3,0.0
+V00170,Sponges,1,0.0
+V00172,Butter,1,0.1
+V00172,Eggs,1,0.0
+V00172,Floor Cleaner,2,0.0
+V00172,Rice,2,0.1
+V00173,Floor Cleaner,2,0.0
+V00173,Polony,1,0.0
+V00173,Soap,2,0.0
+V00173,Toothpaste,2,0.1
+V00175,Bread,2,0.05
+V00175,Cooking Oil,3,0.0
+V00175,Polony,1,0.0
+V00175,Sugar,2,0.0
+V00177,Dish Soap,1,0.1
+V00177,Floor Cleaner,2,0.0
+V00177,Tea,1,0.0
+V00177,Wall Cleaner,3,0.0
+V00181,Bread,1,0.0
+V00181,Cheese,2,0.0
+V00181,Milk ,2,0.0
+V00182,Bread,1,0.0
+V00182,Milk,1,0.0
+V00182,Polony,3,0.0
+V00182,Tea,1,0.0
+V00186,Bread,1,0.05
+V00186,Butter,1,0.0
+V00186,Floor Cleaner,1,0.1
+V00186,Polony,3,0.0
+V00188,Eggs,1,0.0
+V00188,Floor Cleaner,2,0.1
+V00188,Wall Cleaner,1,0.0
+V00189,Polony,1,0.05
+V00189,Soap,2,0.0
+V00189,TEA,2,0.0
+V00189,Toothpaste,2,0.0
+V00190,Dish Soap,1,0.0
+V00190,Floor Cleaner,2,0.1
+V00190,Tea,3,0.0
+V00191,Bread ,1,0.0
+V00191,DISH SOAP,2,0.1
+V00191,Eggs,1,0.05
+V00192,Floor Cleaner,2,0.05
+V00192,Sponges,1,0.0
+V00192,Wall Cleaner,2,0.0
+V00193,Bread,2,0.05
+V00193,Butter,1,0.1
+V00193,Soap,1,0.1
+V00194,Dish Soap,2,0.0
+V00194,Floor Cleaner,2,0.0
+V00194,Soap,2,0.0
+V00194,sponges,1,0.0
+V00197,Bread,3,0.0
+V00197,Tea,3,0.0
+V00197,TOOTHPASTE,2,0.05
+V00198,Dish Soap,2,0.05
+V00198,floor cleaner,2,0.0
+V00198,Wall Cleaner,2,0.05
+V00202,Bread,1,0.1
+V00202,Butter,1,0.0
+V00202,Dish Soap,2,0.1
+V00202,Sugar,1,0.05
+V00203,Butter,2,0.0
+V00203,Wall Cleaner,1,0.0
+V00204,Dish Soap,1,0.0
+V00204,Floor Cleaner,2,0.05
+V00204,SPONGES,1,0.0
+V00204,Wall Cleaner,1,0.05
+V00205,Bread,1,0.1
+V00205,Butter,2,0.0
+V00205,Milk,2,0.0
+V00208,Bread,2,0.1
+V00208,Cheese,3,0.0
+V00208,Milk,2,0.0
+V00208,Polony,1,0.0
+V00209,Cooking Oil,1,0.0
+V00209,Dish Soap,1,0.0
+V00209,polony,3,0.1
+V00209,Toothpaste,1,0.0
+V00215,Bread,2,0.0
+V00215,Dish Soap,2,0.05
+V00215,Eggs,3,0.0
+V00215,Milk,3,0.0
+V00216,Milk,3,0.1
+V00216,Tea,1,0.05
+V00216,Wall Cleaner,1,0.0
+V00218,Bread,1,0.0
+V00218,Soap,1,0.0
+V00218,Sugar,1,0.0
+V00218,Tea,2,0.0
+V00220,Floor Cleaner,1,0.0
+V00220,Wall Cleaner,1,0.1
+V00221,Dish Soap,2,0.0
+V00221,Floor Cleaner,1,0.0
+V00222,Floor Cleaner,1,0.0
+V00222,polony,1,0.0
+V00226,Bread,1,0.0
+V00226,Butter,2,0.0
+V00226,Cheese,2,0.0
+V00226,Milk,1,0.0
+V00226,Polony,2,0.0
+V00228,Dish Soap,1,0.0
+V00228,Eggs,1,0.0
+V00228,Sugar,1,0.0
+V00228,Tea,2,0.05
+V00228,Toothpaste,1,0.0
+V00231,Sponges,1,0.05
+V00231,Sugar,1,0.05
+V00232,Bread,1,0.0
+V00232,Cheese,3,0.0
+V00232,Milk,1,0.0
+V00234,Cooking Oil,3,0.0
+V00234,Sponges,1,0.0
+V00235,Bread,1,0.1
+V00235,Butter,2,0.0
+V00235,Cheese,1,0.0
+V00236,Floor Cleaner,2,0.0
+V00236,Sponges,2,0.0
+V00236,Wall Cleaner,1,0.0
+V00237,Polony,1,0.1
+V00237,Sugar,3,0.05
+V00238,Bread,2,0.0
+V00238,Cheese,1,0.05
+V00238,Milk,3,0.0
+V00241,Bread,1,0.0
+V00241,Cheese,1,0.0
+V00241,Cooking Oil,1,0.0
+V00242,Eggs,3,0.0
+V00242,Milk,1,0.05
+V00242,Polony,3,0.0
+V00243,Dish Soap,2,0.05
+V00243,Floor Cleaner,2,0.0
+V00243,Milk,2,0.05
+V00243,Sponges,2,0.0
+V00244,Bread,3,0.1
+V00244,Butter,1,0.0
+V00244,Cheese,1,0.0
+V00244,Dish Soap ,3,0.0
+V00244,Milk,1,0.0
+V00245,FLOOR CLEANER,1,0.05
+V00245,Sponges,2,0.1
+V00245,Wall Cleaner,1,0.0
+V00247,Butter,1,0.05
+V00247,Toothpaste,2,0.0
+V00249,Bread,2,0.0
+V00249,Milk,1,0.0
+V00249,Polony,2,0.1
+V00250,Bread,1,0.0
+V00250,Dish Soap,1,0.0
+V00250,Floor Cleaner,1,0.0
+V00250,Wall Cleaner,2,0.0
+V00251,Dish Soap,1,0.0
+V00251,Floor Cleaner,2,0.1
+V00251,Milk ,1,0.1
+V00251,Sponges,2,0.1
+V00254,Cooking Oil,1,0.0
+V00254,Rice,2,0.0
+V00254,Soap,1,0.1
+V00255,Bread,2,0.0
+V00255,Butter,3,0.0
+V00255,Cheese,1,0.1
+V00255,Eggs,3,0.0
+V00255,Milk,3,0.1
+V00256,Bread,1,0.05
+V00256,Floor Cleaner,1,0.0
+V00256,Soap,1,0.0
+V00256,Sponges,2,0.0
+V00256,Wall Cleaner,1,0.0
+V00257,Bread,1,0.05
+V00257,Butter,1,0.1
+V00257,Milk,1,0.0
+V00258,Dish Soap,1,0.0
+V00258,Eggs,1,0.0
+V00258,Tea,3,0.0
+V00258,Toothpaste,2,0.05
+V00260,Butter,1,0.1
+V00260,Floor Cleaner,1,0.0
+V00260,polony,1,0.1
+V00260,Soap,1,0.0
+V00260,Tea,2,0.0
+V00261,Dish Soap,1,0.1
+V00261,Floor Cleaner,2,0.05
+V00261,Wall Cleaner,3,0.05
+V00264,Dish Soap,1,0.0
+V00264,Milk,1,0.0
+V00264,Polony,1,0.1
+V00268,Cheese,1,0.0
+V00268,Floor Cleaner,2,0.0
+V00268,Milk,2,0.0
+V00268,Soap,1,0.1
+V00269,Dish Soap,3,0.05
+V00269,Floor Cleaner,1,0.05
+V00269,Wall Cleaner,2,0.0
+V00270,Cheese,1,0.0
+V00270,Dish Soap,2,0.1
+V00270,Floor Cleaner,2,0.05
+V00270,Wall Cleaner,1,0.0
+V00272,Butter,2,0.1
+V00272,Cheese,2,0.0
+V00272,WALL CLEANER,3,0.0
+V00275,Butter,1,0.0
+V00275,Floor Cleaner,3,0.1
+V00275,Wall Cleaner,1,0.05
+V00276,Bread,1,0.05
+V00276,Butter,1,0.0
+V00276,Cheese,3,0.0
+V00276,Milk,1,0.1
+V00277,Eggs,1,0.05
+V00277,Tea,1,0.05
+V00281,Bread,2,0.05
+V00281,Milk,2,0.0
+V00281,Polony,3,0.0
+V00281,Sugar,1,0.0
+V00283,Bread,2,0.05
+V00283,Butter,1,0.1
+V00283,Cheese,1,0.0
+V00283,Milk,1,0.0
+V00284,Bread,1,0.0
+V00284,Butter,1,0.1
+V00284,Cheese,2,0.0
+V00284,Milk,2,0.05
+V00285,Sugar,1,0.0
+V00285,Toothpaste,1,0.1
+V00290,Bread,1,0.0
+V00290,butter,2,0.0
+V00290,Cheese,1,0.0
+V00290,Milk,1,0.0
+V00293,Butter,3,0.0
+V00293,floor cleaner,1,0.0
+V00293,Rice,3,0.0
+V00293,Toothpaste,2,0.05
+V00300,Bread,1,0.1
+V00300,Cheese,1,0.05
+V00300,MILK,2,0.05
+V00300,Soap,1,0.05
+V00303,Cheese,2,0.0
+V00303,Cooking Oil,1,0.0
+V00303,MILK,2,0.0
+V00303,Toothpaste,1,0.0
+V00305,Bread,1,0.0
+V00305,Milk,1,0.0
+V00307,Bread ,1,0.0
+V00307,Butter,2,0.0
+V00307,Milk,3,0.0
+V00308,Cheese,2,0.05
+V00308,Tea,1,0.05
+V00308,Wall Cleaner,2,0.05
+V00309,Dish Soap,2,0.1
+V00309,Floor Cleaner,1,0.0
+V00309,Sponges,1,0.0
+V00309,Wall Cleaner,3,0.0
+V00310,Eggs,2,0.1
+V00310,Floor Cleaner,1,0.1
+V00310,Wall Cleaner,2,0.05
+V00312,Cooking Oil,3,0.0
+V00312,Dish Soap,1,0.0
+V00312,Polony,2,0.0
+V00315,Rice,1,0.05
+V00315,Wall Cleaner,2,0.1
+V00318,Dish Soap,1,0.1
+V00318,Floor Cleaner,1,0.05
+V00318,Milk,1,0.05
+V00318,Wall Cleaner,1,0.05
+V00322,Cooking Oil,1,0.0
+V00322,Tea,3,0.0
+V00325,Butter,1,0.05
+V00325,Sponges,1,0.1
+V00325,Sugar,1,0.0
+V00325,Tea,1,0.1
+V00327,Milk,2,0.0
+V00327,Wall Cleaner ,1,0.0
+V00328,Cheese,2,0.1
+V00328,Rice,2,0.0
+V00328,Sugar,1,0.0
+V00328,Toothpaste,3,0.0
+V00329,Soap ,3,0.0
+V00329,Wall Cleaner,2,0.0
+V00331,Dish Soap,3,0.0
+V00331,Floor Cleaner,1,0.1
+V00331,Sponges,3,0.0
+V00331,Tea,2,0.0
+V00331,Wall Cleaner,2,0.05
+V00333,Bread,1,0.0
+V00333,Milk,1,0.05
+V00333,Polony,2,0.05
+V00336,Bread,1,0.0
+V00336,Butter,3,0.0
+V00336,Cheese,2,0.05
+V00336,Milk,1,0.1
+V00338,Cheese,2,0.1
+V00338,Dish Soap,1,0.0
+V00338,Floor Cleaner,1,0.0
+V00342,Dish Soap,2,0.0
+V00342,Floor Cleaner,1,0.1
+V00342,Wall Cleaner,1,0.0
+V00345,Dish Soap,3,0.1
+V00345,Soap,2,0.0
+V00346,floor cleaner,2,0.0
+V00346,Sponges,2,0.0
+V00346,wall cleaner,1,0.0
+V00347,Cooking Oil,1,0.0
+V00347,Dish Soap,2,0.0
+V00347,floor cleaner,1,0.0
+V00348,Bread,2,0.0
+V00348,Butter,1,0.0
+V00348,Soap,3,0.0
+V00348,Wall Cleaner,1,0.0
+V00349,Dish Soap,3,0.0
+V00349,Eggs,1,0.0
+V00349,Floor Cleaner,2,0.05
+V00349,Sponges,2,0.0
+V00349,Wall Cleaner,1,0.1
+V00350,Dish Soap,1,0.1
+V00350,Floor Cleaner,1,0.0
+V00350,Polony,1,0.05
+V00350,Rice,1,0.0
+V00350,Wall Cleaner,1,0.05
+V00351,Bread,1,0.05
+V00351,Milk,2,0.0
+V00351,Polony,1,0.0
+V00351,Toothpaste,2,0.05
+V00351,Wall Cleaner,1,0.1
+V00352,Eggs,2,0.05
+V00352,Milk,1,0.05
+V00352,Polony,1,0.05
+V00352,Soap,1,0.05
+V00353,Dish Soap,1,0.0
+V00353,Floor Cleaner,2,0.0
+V00353,Sponges,2,0.05
+V00353,Wall Cleaner,2,0.0
+V00354,Dish Soap,1,0.0
+V00354,Floor Cleaner,2,0.0
+V00354,Toothpaste,1,0.1
+V00354,Wall Cleaner,2,0.05
+V00355,Sugar,3,0.0
+V00355,Toothpaste,3,0.1
+V00357,Bread,1,0.0
+V00357,Butter,1,0.05
+V00357,Cheese,2,0.0
+V00357,Polony,2,0.05
+V00360,Milk,1,0.1
+V00360,Soap,1,0.1
+V00360,Sponges,2,0.1
+V00361,Butter,1,0.1
+V00361,Polony,1,0.0
+V00361,Tea,1,0.0
+V00362,Bread,2,0.05
+V00362,Butter,1,0.1
+V00362,Milk,3,0.1
+V00362,Rice,3,0.0
+V00363,Polony,1,0.0
+V00363,Tea,2,0.0
+V00364,Cheese,2,0.0
+V00364,Polony,1,0.0
+V00364,Sponges,1,0.0
+V00364,Sugar,3,0.0
+V00366,Bread,2,0.0
+V00366,Milk,1,0.1
+V00366,Polony,1,0.05
+V00369,Bread,1,0.0
+V00369,Butter,1,0.0
+V00369,Tea,1,0.0
+V00373,Bread,1,0.05
+V00373,Butter,1,0.0
+V00373,Milk,1,0.0
+V00375,Bread,1,0.05
+V00375,Dish Soap,1,0.0
+V00375,Floor Cleaner,2,0.1
+V00375,Rice,1,0.1
+V00378,Floor Cleaner,2,0.0
+V00378,Sponges,1,0.0
+V00378,Tea,1,0.1
+V00378,Toothpaste,2,0.0
+V00378,Wall Cleaner,1,0.0
+V00380,Bread,1,0.0
+V00380,Butter,2,0.0
+V00380,Floor Cleaner,1,0.05
+V00382,Bread,3,0.0
+V00382,Cheese,2,0.05
+V00382,Dish Soap,1,0.0
+V00382,Sugar,2,0.0
+V00383,Bread,1,0.0
+V00383,Floor Cleaner,1,0.0
+V00383,Milk,1,0.0
+V00385,Dish Soap,1,0.0
+V00385,Floor Cleaner,2,0.1
+V00385,sponges,3,0.05
+V00385,Wall Cleaner ,2,0.0
+V00386,Bread,2,0.1
+V00386,Butter,2,0.05
+V00386,Cheese,2,0.0
+V00386,Milk,1,0.05
+V00387,Bread,1,0.0
+V00387,Dish Soap,2,0.1
+V00387,Floor Cleaner,2,0.0
+V00387,Tea,2,0.0
+V00387,Wall Cleaner,2,0.0
+V00389,Bread,1,0.05
+V00389,Cheese,2,0.0
+V00389,Milk,1,0.0
+V00391,Dish Soap,3,0.05
+V00391,floor cleaner,1,0.0
+V00391,Sponges,1,0.0
+V00391,Wall Cleaner,3,0.0
+V00400,Butter,1,0.0
+V00400,Rice,1,0.0
+V00401,Eggs,1,0.05
+V00401,MILK,1,0.0
+V00401,Polony,1,0.0
+V00403,Dish Soap,1,0.0
+V00403,Floor Cleaner,1,0.0
+V00403,Sponges,3,0.0
+V00403,Wall Cleaner,3,0.1
+V00407,Bread,2,0.0
+V00407,Rice,1,0.05
+V00407,Soap,2,0.0
+V00407,Wall Cleaner,2,0.1
+V00408,Bread,2,0.1
+V00408,Butter,2,0.0
+V00408,Dish Soap,2,0.0
+V00408,Sugar,2,0.0
+V00409,Bread,3,0.0
+V00409,Cooking Oil,1,0.0
+V00409,milk,3,0.0
+V00409,WALL CLEANER,1,0.0
+V00410,Cheese,1,0.05
+V00410,Tea,2,0.0
+V00410,Wall Cleaner ,2,0.05
+V00412,Dish Soap,1,0.0
+V00412,Floor Cleaner,1,0.0
+V00412,Wall Cleaner,3,0.1
+V00414,Floor Cleaner,1,0.1
+V00414,Sponges,2,0.0
+V00414,Wall Cleaner,3,0.05
+V00418,Bread,1,0.0
+V00418,Floor Cleaner,2,0.0
+V00418,Rice,1,0.0
+V00418,Tea,1,0.0
+V00420,Bread,1,0.0
+V00420,Butter,1,0.05
+V00420,Dish Soap,1,0.0
+V00420,Milk,2,0.0
+V00420,Polony,3,0.0
+V00423,Bread,2,0.1
+V00423,Butter,1,0.0
+V00423,Cooking Oil,3,0.05
+V00423,Milk,1,0.1
+V00423,Polony,1,0.05
+V00424,Bread ,2,0.0
+V00424,Milk,2,0.0
+V00424,Polony,2,0.05
+V00424,Rice,1,0.0
+V00425,Bread,3,0.0
+V00425,Butter,2,0.0
+V00425,Milk,1,0.0
+V00425,Polony,1,0.05
+V00426,Bread,1,0.0
+V00426,Cheese,2,0.1
+V00427,Butter,1,0.1
+V00427,Milk,3,0.0
+V00427,Tea,2,0.05
+V00429,Bread,1,0.0
+V00429,Butter,3,0.1
+V00429,Milk,1,0.0
+V00429,Polony,3,0.05
+V00430,EGGS,1,0.1
+V00430,Soap,2,0.05
+V00430,Sugar,1,0.05
+V00433,Dish Soap,2,0.0
+V00433,Floor Cleaner,3,0.0
+V00433,Wall Cleaner,1,0.05
+V00434,Floor Cleaner ,1,0.0
+V00434,Wall Cleaner,3,0.05
+V00435,Bread,3,0.05
+V00435,Soap,1,0.0
+V00435,Sponges,2,0.1
+V00435,Tea,2,0.0
+V00437,Bread,2,0.1
+V00437,Dish Soap,1,0.0
+V00437,Floor Cleaner,1,0.05
+V00437,Sponges,2,0.0
+V00440,Dish Soap,1,0.0
+V00440,Floor Cleaner,3,0.0
+V00440,Wall Cleaner,1,0.0
+V00446,Bread,2,0.0
+V00446,Milk,1,0.0
+V00448,Floor Cleaner,1,0.0
+V00448,Soap,1,0.0
+V00448,Sponges,2,0.0
+V00448,Wall Cleaner,2,0.0
+V00449,Eggs,3,0.05
+V00449,Floor Cleaner,1,0.1
+V00452,Bread,3,0.1
+V00452,Butter,1,0.1
+V00452,Cheese,2,0.0
+V00452,Milk,1,0.0
+V00452,Toothpaste,1,0.0
+V00453,Floor Cleaner,1,0.0
+V00453,Sponges,1,0.05
+V00453,wall cleaner,1,0.1
+V00454,Bread,1,0.0
+V00454,butter,2,0.0
+V00454,Milk,3,0.0
+V00454,Polony,2,0.05
+V00454,Sponges,3,0.0
+V00455,Dish Soap,2,0.1
+V00455,Floor Cleaner,2,0.1
+V00458,Bread,1,0.05
+V00458,Cheese,3,0.05
+V00458,Eggs,2,0.05
+V00458,Milk,1,0.0
+V00461,Bread,2,0.0
+V00461,Milk ,3,0.0
+V00461,Rice,2,0.0
+V00461,Tea,3,0.1
+V00463,Bread,2,0.05
+V00463,Milk,1,0.1
+V00463,Rice,3,0.1
+V00465,Floor Cleaner,2,0.0
+V00465,Milk,3,0.1
+V00465,Soap,1,0.0
+V00465,Wall Cleaner,1,0.0
+V00466,Dish Soap,3,0.0
+V00466,Floor Cleaner,3,0.0
+V00466,Wall Cleaner,1,0.05
+V00467,Bread,1,0.0
+V00467,Butter,3,0.05
+V00467,Milk,3,0.0
+V00467,Polony,1,0.05
+V00470,Dish Soap ,2,0.0
+V00470,Floor Cleaner,1,0.0
+V00470,Sugar,3,0.0
+V00471,Bread,2,0.0
+V00471,Butter,2,0.05
+V00471,COOKING OIL,3,0.0
+V00471,Milk,1,0.0
+V00471,Toothpaste,1,0.0
+V00472,Bread,1,0.05
+V00472,Sugar,2,0.1
+V00473,Floor Cleaner,2,0.1
+V00473,Wall Cleaner,2,0.0
+V00476,bread,1,0.0
+V00476,Butter,1,0.05
+V00476,Cheese,2,0.0
+V00476,Milk,1,0.0
+V00480,Dish Soap,2,0.0
+V00480,Floor Cleaner,2,0.05
+V00480,Milk,1,0.05
+V00480,Wall Cleaner,1,0.0
+V00481,Dish Soap,1,0.05
+V00481,Floor Cleaner,1,0.05
+V00481,Wall Cleaner,2,0.0
+V00483,Bread,1,0.05
+V00483,Butter,3,0.0
+V00483,Cheese,2,0.0
+V00483,Polony,1,0.0
+V00484,Floor Cleaner,2,0.0
+V00484,Sponges,1,0.0
+V00491,Dish Soap,2,0.0
+V00491,Floor Cleaner,2,0.05
+V00491,Sponges,2,0.0
+V00491,Wall Cleaner,2,0.05
+V00494,Floor Cleaner,3,0.1
+V00494,Rice,1,0.05
+V00494,Soap,3,0.0
+V00496,Milk,2,0.0
+V00496,Rice,2,0.1
+V00496,Toothpaste,2,0.0
+V00497,Bread,2,0.0
+V00497,Cheese,1,0.0
+V00497,Milk,2,0.05
+V00497,Rice,1,0.05
+V00500,Bread,1,0.0
+V00500,BUTTER,1,0.0
+V00500,Cheese,2,0.0
+V00500,Milk,2,0.05
+V00500,Polony,2,0.05
+V00501,Bread,3,0.0
+V00501,Cheese,3,0.05
+V00501,Tea,1,0.05
+V00505,Bread,3,0.0
+V00505,Butter,3,0.0
+V00505,milk,2,0.0
+V00505,Soap,2,0.0
+V00510,Dish Soap,1,0.0
+V00510,floor cleaner,1,0.0
+V00510,Wall Cleaner,3,0.0
+V00514,Floor Cleaner ,1,0.1
+V00514,Sponges,1,0.05
+V00516,Butter,2,0.0
+V00516,Dish Soap,1,0.0
+V00516,Soap,1,0.1
+V00518,Bread,3,0.0
+V00518,Butter,2,0.0
+V00518,Sponges,1,0.0
+V00518,Tea,1,0.0
+V00519,Dish Soap ,3,0.0
+V00519,Floor Cleaner,1,0.1
+V00519,WALL CLEANER,1,0.05
+V00520,Bread,3,0.05
+V00520,Butter,2,0.1
+V00520,Cheese,3,0.0
+V00520,Milk,2,0.0
+V00521,Bread,1,0.0
+V00521,Butter,2,0.0
+V00521,floor cleaner,1,0.0
+V00521,Milk,3,0.0
+V00523,Bread,1,0.0
+V00523,butter,1,0.0
+V00523,cheese,1,0.05
+V00523,Milk,1,0.1
+V00523,Polony,1,0.0
+V00524,Bread,1,0.0
+V00524,Butter,2,0.0
+V00524,Milk,1,0.0
+V00525,Bread,1,0.0
+V00525,Butter,1,0.05
+V00525,Milk,1,0.1
+V00525,Polony,1,0.0
+V00526,Bread,1,0.0
+V00526,Sponges,2,0.0
+V00526,Sugar,2,0.0
+V00526,Tea,1,0.0
+V00527,Bread,1,0.0
+V00527,Butter,1,0.05
+V00527,Milk,2,0.0
+V00529,Bread,3,0.0
+V00529,Cooking Oil,1,0.0
+V00529,Eggs,3,0.05
+V00531,Bread,1,0.0
+V00531,Eggs,3,0.0
+V00531,Milk,2,0.1
+V00531,Sponges,2,0.1
+V00532,Bread,2,0.0
+V00532,Butter,1,0.0
+V00532,Milk,1,0.05
+V00532,Tea,1,0.1
+V00533,Bread,2,0.05
+V00533,Butter,1,0.0
+V00533,Cheese,1,0.0
+V00533,MILK,1,0.0
+V00534,Bread,1,0.0
+V00534,Milk,2,0.0
+V00534,Polony,3,0.05
+V00537,Cheese,3,0.0
+V00537,Rice,2,0.0
+V00537,Sugar,2,0.05
+V00544,Bread,3,0.1
+V00544,Butter,1,0.05
+V00544,Milk,3,0.1
+V00546,Bread,1,0.1
+V00546,BUTTER,1,0.1
+V00546,Milk,1,0.05
+V00546,Polony,1,0.1
+V00547,Dish Soap,1,0.0
+V00547,Eggs,2,0.0
+V00547,Wall Cleaner,2,0.1
+V00549,Butter,2,0.05
+V00549,Dish Soap,1,0.05
+V00549,Milk,3,0.05
+V00549,Tea,1,0.1
+V00550,Bread,1,0.0
+V00550,Milk,1,0.0
+V00550,Polony,3,0.0
+V00552,Cheese,2,0.0
+V00552,Polony,3,0.0
+V00555,Dish Soap,1,0.0
+V00555,Floor Cleaner,3,0.1
+V00555,Polony,2,0.05
+V00555,Wall Cleaner,1,0.0
+V00558,Bread,2,0.0
+V00558,Cheese,1,0.0
+V00558,MILK,3,0.1
+V00558,Polony,2,0.0
+V00564,Polony,2,0.05
+V00564,Rice,1,0.05
+V00564,Toothpaste,3,0.0
+V00568,Bread,2,0.0
+V00568,Cheese,1,0.0
+V00568,Sugar,1,0.0
+V00569,Cooking Oil,3,0.05
+V00569,Polony,1,0.05
+V00569,Rice,2,0.0
+V00569,Soap ,2,0.05
+V00569,Sponges,3,0.0
+V00571,Bread,1,0.0
+V00571,Milk,2,0.0
+V00572,Bread,3,0.0
+V00572,Eggs,3,0.05
+V00572,Milk,2,
+V00572,Polony,1,0.0
+V00574,Bread,3,0.1
+V00574,Cheese,2,0.1
+V00574,Milk,2,0.05
+V00574,Polony,3,0.0
+V00574,Rice,1,0.1
+V00575,Bread,3,0.0
+V00575,Polony,1,0.0
+V00575,Rice,2,0.0
+V00575,Sponges,2,0.1
+V00575,Toothpaste,2,0.0
+V00576,Bread,2,0.0
+V00576,Cheese,1,0.05
+V00576,Milk,1,0.05
+V00577,Dish Soap,1,0.05
+V00577,Floor Cleaner,1,0.0
+V00577,Sponges,3,0.0
+V00577,Wall Cleaner,2,0.0
+V00579,Dish Soap,2,0.1
+V00579,Floor Cleaner,1,0.0
+V00579,Wall Cleaner,3,0.1
+V00580,Dish Soap,2,0.1
+V00580,Milk,1,0.05
+V00580,Tea,1,0.0
+V00580,Toothpaste,1,0.0
+V00582,Cooking Oil,2,0.05
+V00582,Tea,2,0.05
+V00584,Bread,2,0.05
+V00584,Cheese,1,0.05
+V00584,Milk,3,0.0
+V00585,Cooking Oil,1,0.0
+V00585,Dish Soap,0,0.1
+V00585,Milk,1,0.05
+V00585,Wall Cleaner,1,0.05
+V00586,Soap,2,0.0
+V00586,sugar,3,0.05
+V00588,Eggs,1,0.0
+V00588,Sponges,1,0.0
+V00588,Toothpaste,2,0.05
+V00588,Wall Cleaner,2,0.0
+V00589,Bread,2,0.1
+V00589,Butter,1,0.0
+V00589,MILK,1,0.0
+V00589,Polony,1,0.0
+V00591,Bread,2,0.0
+V00591,Cooking Oil,1,0.05
+V00591,Dish Soap,1,0.05
+V00591,Milk,2,0.1
+V00592,Dish Soap ,2,0.0
+V00592,Floor Cleaner,2,0.0
+V00592,Sponges,2,0.0
+V00592,Sugar,2,0.0
+V00592,Wall Cleaner,2,0.0
+V00598,Floor Cleaner,2,0.0
+V00598,Polony,1,0.1
+V00600,rice,1,0.05
+V00600,Toothpaste,2,0.1
+V00605,Dish Soap,1,0.1
+V00605,Floor Cleaner,1,0.0
+V00605,Wall Cleaner,1,0.0
+V00606,Floor Cleaner,1,0.0
+V00606,Polony,3,0.0
+V00606,Sponges,2,0.0
+V00606,Wall Cleaner,1,0.1
+V00608,Bread,2,0.0
+V00608,Milk,3,0.0
+V00612,DISH SOAP,2,0.0
+V00612,milk,2,0.1
+V00612,Wall Cleaner,1,0.0
+V00613,Bread,1,0.1
+V00613,Butter,1,0.1
+V00613,Cheese,2,0.0
+V00613,MILK,1,0.0
+V00614,Cooking Oil,1,0.1
+V00614,POLONY,0,0.0
+V00615,Dish Soap,2,0.0
+V00615,Floor Cleaner,2,0.05
+V00615,Sponges,2,0.0
+V00615,WALL CLEANER,2,0.05
+V00617,Bread,2,0.0
+V00617,Eggs,3,0.1
+V00617,Milk,2,0.05
+V00619,Dish Soap,2,0.05
+V00619,Floor Cleaner,2,0.05
+V00619,Wall Cleaner,1,0.0
+V00620,Bread,2,0.0
+V00620,Milk,2,0.0
+V00620,Polony,1,0.0
+V00620,Soap,1,0.05
+V00621,BUTTER,1,0.1
+V00621,Dish Soap,2,0.0
+V00621,Floor Cleaner,1,0.0
+V00625,Floor Cleaner ,1,0.0
+V00625,Rice,1,0.0
+V00625,Wall Cleaner,2,0.0
+V00627,Milk,1,0.0
+V00627,Rice,3,0.0
+V00627,Soap,1,0.05
+V00627,Wall Cleaner,1,0.0
+V00629,Cheese,2,0.0
+V00629,Dish Soap,2,0.0
+V00629,Floor Cleaner,1,0.0
+V00629,Wall Cleaner,2,0.05
+V00632,Bread,1,0.05
+V00632,Cooking Oil,1,0.0
+V00632,EGGS,1,0.0
+V00632,Soap,1,0.05
+V00633,Dish Soap,1,0.05
+V00633,Floor Cleaner,2,0.0
+V00633,Wall Cleaner,1,0.1
+V00635,Bread,1,0.1
+V00635,Milk,2,0.1
+V00635,wall cleaner,3,0.0
+V00638,Cooking Oil,1,0.0
+V00638,Rice,2,0.1
+V00639,Butter,3,0.0
+V00639,Floor Cleaner,1,0.0
+V00639,Tea,1,0.1
+V00639,Wall Cleaner,3,0.0
+V00640,Dish Soap,1,0.05
+V00640,Floor Cleaner,1,0.05
+V00640,Wall Cleaner,1,0.0
+V00642,Butter,1,0.0
+V00642,Milk,1,0.05
+V00642,Wall Cleaner,2,0.0
+V00644,Bread,3,0.0
+V00644,Butter,2,0.0
+V00644,Milk,1,0.0
+V00644,Soap,2,0.1
+V00649,Cheese,1,0.1
+V00649,Eggs,3,0.05
+V00649,Floor Cleaner,2,0.0
+V00649,Tea,3,0.05
+V00654,Bread,2,0.0
+V00654,Cheese,1,0.0
+V00656,bread,1,0.1
+V00656,Cheese,3,0.0
+V00656,Eggs,2,0.0
+V00656,Milk,1,0.0
+V00659,COOKING OIL,1,0.0
+V00659,Sponges,1,0.05
+V00659,SUGAR,1,0.0
+V00659,Toothpaste,1,0.0
+V00661,Bread,1,0.0
+V00661,Cheese,1,0.0
+V00661,Milk,1,0.0
+V00662,Floor Cleaner,1,0.0
+V00662,Sponges,1,0.1
+V00662,Wall Cleaner,3,0.0
+V00663,Bread,1,0.05
+V00663,Polony,1,0.0
+V00665,Bread,1,0.05
+V00665,Cooking Oil,1,0.05
+V00665,Milk,2,0.0
+V00665,Polony,1,0.0
+V00666,Butter,2,0.0
+V00666,Rice,1,0.0
+V00666,Sponges,3,0.0
+V00666,Sugar,1,0.0
+V00669,Bread,3,0.0
+V00669,Rice ,2,0.0
+V00669,Wall Cleaner,2,0.0
+V00670,Eggs,2,0.0
+V00670,Tea,2,0.0
+V00670,Wall Cleaner,1,0.1
+V00672,Dish Soap,2,0.05
+V00672,Floor Cleaner,1,0.0
+V00672,Wall Cleaner,1,0.0
+V00674,Dish Soap,1,0.0
+V00674,Floor Cleaner,2,0.1
+V00674,Wall Cleaner,2,0.0
+V00676,Dish Soap,3,0.0
+V00676,Floor Cleaner,1,0.0
+V00676,Sponges,1,0.05
+V00676,Wall Cleaner,1,0.0
+V00677,Bread,2,0.0
+V00677,Polony,3,0.0
+V00680,bread,2,0.0
+V00680,Butter,2,0.0
+V00680,Milk,1,0.0
+V00681,Bread ,2,0.0
+V00681,Floor Cleaner,1,0.05
+V00681,Rice,2,0.05
+V00681,Sponges,2,0.0
+V00682,Bread,1,0.0
+V00682,DISH SOAP,3,0.0
+V00682,Milk,1,0.0
+V00682,Toothpaste,1,0.05
+V00683,Butter,1,0.0
+V00683,Floor Cleaner,1,0.0
+V00683,Tea,1,0.05
+V00683,Toothpaste,2,0.0
+V00685,Sponges,1,0.05
+V00685,Sugar,3,0.0
+V00685,Wall Cleaner,1,0.1
+V00686,Butter,1,0.05
+V00686,Dish Soap,2,0.0
+V00686,Floor Cleaner,2,0.0
+V00686,Milk,1,0.0
+V00687,EGGS,1,0.0
+V00687,SUGAR,1,0.0
+V00687,Toothpaste,1,0.05
+V00688,Bread,1,0.0
+V00688,Butter,1,0.0
+V00688,milk,1,0.0
+V00688,Polony,1,0.0
+V00689,Rice,1,0.0
+V00689,Sponges,1,0.0
+V00689,wall cleaner,2,0.1
+V00691,Bread,1,0.0
+V00691,Cheese,1,0.1
+V00691,Milk,3,0.0
+V00694,Bread,1,0.0
+V00694,Dish Soap,1,0.0
+V00694,Milk,2,0.1
+V00694,Wall Cleaner,1,0.0
+V00698,Floor Cleaner,1,0.0
+V00698,Sponges,2,0.0
+V00698,Wall Cleaner,1,0.0
+V00699,Dish Soap,2,0.1
+V00699,Floor Cleaner,1,0.05
+V00699,Sponges,1,0.1
+V00699,Wall Cleaner,3,0.0
+V00701,Bread,3,0.1
+V00701,Butter,2,0.0
+V00701,Milk,1,0.1
+V00701,Tea,3,0.0
+V00702,BREAD,3,0.1
+V00702,Cheese,1,0.0
+V00702,Dish Soap,1,0.0
+V00702,Sugar,2,0.0
+V00703,Bread,1,0.0
+V00703,Cheese,1,0.0
+V00703,Sugar,1,0.0
+V00703,Toothpaste,2,0.0
+V00705,Bread,3,0.0
+V00705,Butter,3,0.0
+V00705,MILK,2,0.0
+V00705,Polony,1,0.0
+V00705,Sugar,1,0.0
+V00706,Butter,3,0.1
+V00706,Eggs,1,0.0
+V00706,Floor Cleaner,2,0.0
+V00706,Wall Cleaner,3,0.0
+V00707,Bread,1,0.0
+V00707,Butter,1,0.0
+V00707,Dish Soap,1,0.0
+V00707,Floor Cleaner,2,0.1
+V00709,Milk,3,0.0
+V00709,Tea,2,0.1
+V00709,Toothpaste,1,0.1
+V00712,Bread,2,0.0
+V00712,Butter,1,0.0
+V00712,Milk,3,0.05
+V00712,Polony,3,0.0
+V00713,Bread,2,0.1
+V00713,Floor Cleaner,1,0.0
+V00713,Soap,2,0.05
+V00713,Tea,1,0.05
+V00714,Cheese,2,0.0
+V00714,Soap,3,0.1
+V00714,Toothpaste,1,0.0
+V00715,Butter,1,0.0
+V00715,Floor Cleaner,2,0.0
+V00716,Cheese,2,0.1
+V00716,Eggs,2,0.05
+V00716,Floor Cleaner,1,0.0
+V00716,Sponges,1,0.05
+V00716,Tea,1,0.05
+V00718,Bread,1,0.1
+V00718,Butter,1,0.0
+V00718,Milk,1,0.05
+V00719,Dish Soap,2,0.0
+V00719,Floor Cleaner,2,0.1
+V00719,Wall Cleaner,1,0.0
+V00720,Sponges,3,0.0
+V00720,Toothpaste,1,0.05
+V00720,Wall Cleaner,1,0.0
+V00721,Dish Soap,2,0.0
+V00721,Floor Cleaner,2,0.0
+V00721,Sponges,1,0.05
+V00721,Wall Cleaner,2,0.0
+V00722,Floor Cleaner,1,0.0
+V00722,Polony,1,0.0
+V00722,Sponges,3,0.0
+V00722,Tea,2,0.1
+V00725,Bread,1,0.05
+V00725,Butter,1,0.05
+V00725,Milk,1,0.05
+V00728,Eggs,2,0.1
+V00728,Soap,1,0.1
+V00731,Milk,2,0.1
+V00731,Soap,1,0.0
+V00731,Tea,1,0.0
+V00732,Bread,1,0.0
+V00732,Floor Cleaner,2,0.05
+V00732,Milk,1,0.1
+V00732,Polony,3,0.0
+V00732,Sponges,1,0.0
+V00733,Bread,1,0.05
+V00733,Butter,2,0.0
+V00733,Polony,1,0.0
+V00737,Bread,1,0.05
+V00737,Dish Soap ,1,0.0
+V00737,eggs,1,0.0
+V00738,Bread,1,0.0
+V00738,Cooking Oil,1,0.05
+V00738,Polony,2,0.0
+V00740,Bread,2,0.0
+V00740,Cooking Oil,1,0.0
+V00740,Milk,3,0.1
+V00740,Polony,1,0.0
+V00740,Wall Cleaner,1,0.0
+V00741,Dish Soap,2,0.0
+V00741,Floor Cleaner,2,0.05
+V00741,Sponges,1,0.0
+V00742,Bread,3,0.1
+V00742,Butter,1,0.0
+V00742,Milk,2,0.0
+V00746,Bread,2,0.1
+V00746,butter,2,0.0
+V00746,Milk,1,0.0
+V00746,Polony,3,0.1
+V00748,COOKING OIL,2,0.0
+V00748,Sugar,2,0.05
+V00753,Bread,3,0.05
+V00753,Polony,2,0.1
+V00757,Bread,2,0.0
+V00757,butter,2,0.0
+V00757,Cheese,1,0.0
+V00757,Milk,1,0.0
+V00759,Cheese,1,0.0
+V00759,Polony,1,0.05
+V00759,Rice,3,0.0
+V00759,Soap,3,0.1
+V00760,Bread,2,0.05
+V00760,Butter,1,0.1
+V00760,MILK,1,0.1
+V00760,Polony,1,0.05
+V00764,Bread,1,0.0
+V00764,Floor Cleaner,3,0.1
+V00764,Milk,1,0.0
+V00766,Floor Cleaner,3,0.1
+V00766,Sponges,2,0.0
+V00766,Toothpaste,1,0.0
+V00766,Wall Cleaner,2,0.0
+V00767,Eggs,1,0.05
+V00767,Sponges,3,0.0
+V00770,Floor Cleaner,2,0.1
+V00770,Wall Cleaner,1,0.0
+V00771,Dish Soap,1,0.05
+V00771,Eggs,3,0.05
+V00771,Rice,1,0.0
+V00771,Toothpaste,1,0.0
+V00772,Cheese,2,0.0
+V00772,Dish Soap,2,0.1
+V00772,Floor Cleaner,2,0.0
+V00772,Rice,2,0.1
+V00773,Bread,1,0.0
+V00773,Eggs,1,0.1
+V00774,Floor Cleaner,1,0.0
+V00774,SPONGES,3,0.0
+V00774,Wall Cleaner,1,0.0
+V00776,Cheese,2,0.0
+V00776,Dish Soap,1,0.0
+V00776,Floor Cleaner,1,0.1
+V00776,Sponges,2,0.05
+V00777,Bread,1,0.1
+V00777,Butter,2,0.0
+V00777,Floor Cleaner,1,0.05
+V00777,Milk,2,0.1
+V00778,Bread,1,0.0
+V00778,Butter,2,0.0
+V00778,Polony,2,0.0
+V00784,Butter,1,0.0
+V00784,DISH SOAP,3,0.1
+V00784,Floor Cleaner,1,0.0
+V00784,Wall Cleaner,1,0.0
+V00785,Eggs,1,0.05
+V00785,Wall Cleaner,2,0.0
+V00787,Dish Soap,3,0.05
+V00787,Floor Cleaner,1,0.05
+V00787,Wall Cleaner,2,0.05
+V00792,Bread,2,0.0
+V00792,Cooking Oil,3,0.0
+V00792,Tea,1,0.05
+V00793,Bread,2,0.1
+V00793,Milk,1,0.0
+V00793,Polony,2,0.0
+V00794,Butter,1,0.0
+V00794,Wall Cleaner,2,0.05
+V00795,Bread,2,0.0
+V00795,Butter,3,0.0
+V00795,Milk,1,0.05
+V00797,Cheese ,2,0.0
+V00797,Cooking Oil,1,0.1
+V00797,Floor Cleaner,3,0.0
+V00797,Sponges,1,0.05
+V00798,Dish Soap,2,0.1
+V00798,Sugar,1,0.0
+V00798,Tea,2,0.05
+V00799,Cooking Oil,1,0.0
+V00799,sponges,1,0.05
+V00800,milk,2,0.0
+V00800,Tea,1,0.05
+V00801,Bread,1,0.0
+V00801,butter,2,0.0
+V00801,Milk,2,0.0
+V00801,Polony,2,0.0
+V00804,Dish Soap,1,0.05
+V00804,Floor Cleaner,2,0.1
+V00804,Sponges,2,0.1
+V00804,Wall Cleaner,2,0.1
+V00806,Dish Soap,1,0.0
+V00806,Eggs,1,0.0
+V00806,Milk,2,0.1
+V00808,Cheese,2,0.0
+V00808,Dish Soap,2,0.05
+V00808,Milk,1,0.05
+V00809,Dish Soap,1,0.0
+V00809,Floor Cleaner,1,0.05
+V00809,Wall Cleaner,1,0.05
+V00814,Bread,1,0.0
+V00814,Butter,3,0.0
+V00814,Milk,1,0.0
+V00817,Bread,1,0.0
+V00817,Cooking Oil,3,0.05
+V00817,Dish Soap,1,0.05
+V00817,Milk,1,0.0
+V00818,Cheese ,1,0.05
+V00818,Tea,2,0.0
+V00818,Toothpaste,2,0.0
+V00818,Wall Cleaner,3,0.1
+V00821,Bread,2,0.1
+V00821,BUTTER,1,0.0
+V00821,Cheese,2,0.0
+V00821,Milk,2,0.05
+V00821,Polony,2,0.0
+V00822,Polony,2,0.0
+V00822,Rice,1,0.0
+V00823,Dish Soap,2,0.05
+V00823,Floor Cleaner,2,0.0
+V00823,Sponges,3,0.1
+V00823,wall cleaner,1,0.0
+V00829,Bread,1,0.0
+V00829,Polony,3,0.0
+V00829,Tea,1,0.0
+V00832,Bread,1,0.05
+V00832,Butter,2,0.0
+V00832,milk,2,0.05
+V00833,Eggs,1,0.05
+V00833,Sponges,2,0.0
+V00835,Bread,1,0.0
+V00835,Cheese,1,0.0
+V00835,Floor Cleaner,2,0.0
+V00835,Soap,1,0.0
+V00835,Sugar,2,0.0
+V00837,Floor Cleaner,1,0.1
+V00837,Rice,1,0.0
+V00840,BREAD,1,0.0
+V00840,Cheese,1,0.05
+V00840,Rice,3,0.0
+V00840,Tea,2,0.0
+V00841,Cooking Oil,1,0.0
+V00841,Milk,2,0.0
+V00842,Cheese ,2,0.0
+V00842,Dish Soap,1,0.0
+V00842,Polony,1,0.0
+V00842,Soap,2,0.1
+V00849,Rice ,2,0.0
+V00849,Soap,2,0.05
+V00850,Butter,1,0.0
+V00850,Rice,1,0.0
+V00850,Soap,1,0.1
+V00852,Butter,2,0.05
+V00852,Floor Cleaner,2,0.0
+V00852,Polony,1,0.0
+V00852,Rice,1,0.0
+V00854,Bread,2,0.05
+V00854,Dish Soap,1,0.1
+V00854,Sugar,1,0.05
+V00854,Wall Cleaner,2,0.0
+V00855,Dish Soap,2,0.1
+V00855,Floor Cleaner,1,0.05
+V00855,Wall Cleaner,1,0.0
+V00856,Bread,2,0.0
+V00856,Milk,2,0.1
+V00856,Tea,2,0.0
+V00856,wall cleaner,1,0.05
+V00859,Butter,1,0.0
+V00859,Rice,2,0.05
+V00859,sponges,1,0.0
+V00861,Bread,1,0.1
+V00861,Polony,1,0.1
+V00861,Rice,3,0.0
+V00864,Bread,1,0.0
+V00864,Cheese,3,0.1
+V00864,Milk,1,0.0
+V00864,Soap,2,0.0
+V00865,Sugar,2,0.0
+V00865,Wall Cleaner,2,0.05
+V00869,Butter,2,0.05
+V00869,Polony,2,0.1
+V00871,Bread,1,0.1
+V00871,Eggs,3,0.0
+V00871,Polony,2,0.0
+V00871,Soap,2,0.0
+V00873,Bread,2,0.0
+V00873,Cheese,1,0.05
+V00873,Milk,3,0.1
+V00874,Bread,3,0.0
+V00874,Butter,1,0.0
+V00874,Milk,1,0.0
+V00876,Eggs,1,0.05
+V00876,Wall Cleaner,1,0.05
+V00878,Cheese,2,0.0
+V00878,Sponges,1,0.05
+V00878,TEA,2,0.0
+V00879,Bread,1,0.05
+V00879,Butter,1,0.0
+V00879,Cheese,1,0.0
+V00879,Milk,1,0.0
+V00881,Bread,2,0.05
+V00881,Butter,2,0.0
+V00881,Milk,3,0.1
+V00881,Sugar,3,0.05
+V00882,Bread,3,0.05
+V00882,Butter,1,0.0
+V00882,Milk ,2,0.0
+V00883,Bread,1,0.05
+V00883,Butter,2,0.05
+V00883,Rice,3,0.0
+V00883,Sponges,2,0.05
+V00883,Sugar,2,0.0
+V00884,Cheese,3,0.0
+V00884,Eggs,1,0.0
+V00885,Dish Soap,2,0.1
+V00885,Floor Cleaner,1,0.05
+V00885,Polony,1,0.0
+V00885,Sponges,2,0.1
+V00885,Wall Cleaner,3,0.0
+V00889,Bread,2,0.05
+V00889,Butter,1,0.0
+V00889,Cheese,2,0.0
+V00889,Milk,3,0.1
+V00892,Dish Soap,1,0.0
+V00892,Floor Cleaner,2,0.05
+V00892,Sponges,1,0.05
+V00892,Wall Cleaner,3,0.0
+V00894,Dish Soap,1,0.1
+V00894,Floor Cleaner,1,0.1
+V00894,Sponges,3,0.0
+V00894,Wall Cleaner,1,0.0
+V00895,Dish Soap,1,0.1
+V00895,Floor Cleaner,1,0.0
+V00895,Sponges,1,0.0
+V00895,Wall Cleaner,2,0.05
+V00896,Bread,2,0.0
+V00896,Butter,1,0.0
+V00896,Cheese,1,0.05
+V00896,Milk,1,0.1
+V00899,Cheese,2,0.0
+V00899,Eggs,2,0.05
+V00899,Wall Cleaner,1,0.05
+V00903,Butter,1,0.0
+V00903,Wall Cleaner,2,0.0
+V00904,Floor Cleaner,2,0.05
+V00904,Sponges,1,0.0
+V00904,Wall Cleaner,3,0.0
+V00910,Cheese,1,0.1
+V00910,Cooking Oil,2,0.1
+V00910,Dish Soap,1,0.0
+V00910,Milk,2,0.05
+V00910,Sponges,1,0.0
+V00912,bread,2,0.05
+V00912,Butter,1,0.0
+V00912,Cheese,1,0.0
+V00912,Milk,1,0.0
+V00913,Floor Cleaner,3,0.0
+V00913,Milk,2,0.0
+V00913,Sponges,3,0.0
+V00916,Bread,2,0.0
+V00916,Cheese,3,0.0
+V00916,Tea,3,0.0
+V00917,Bread ,2,0.0
+V00917,Milk,1,0.1
+V00917,RICE,1,0.0
+V00920,Bread,1,0.1
+V00920,Cheese,1,0.1
+V00920,Milk,2,0.0
+V00920,Tea,1,0.05
+V00920,Toothpaste,1,0.0
+V00923,Bread,3,0.05
+V00923,Butter,1,0.0
+V00923,Milk,1,0.0
+V00923,Wall Cleaner,1,0.0
+V00924,Bread ,1,0.0
+V00924,floor cleaner,3,0.05
+V00924,Toothpaste,1,0.0
+V00925,Bread,3,0.1
+V00925,CHEESE,3,0.0
+V00925,Milk,1,0.0
+V00925,Polony,1,0.0
+V00926,Dish Soap,1,0.05
+V00926,Floor Cleaner,1,0.1
+V00926,Wall Cleaner,1,0.05
+V00929,Cheese,2,0.0
+V00929,Floor Cleaner,3,0.05
+V00929,Rice,1,0.05
+V00930,Bread,2,0.0
+V00930,MILK,1,0.1
+V00931,Bread,2,0.05
+V00931,Butter,2,0.0
+V00931,Milk,1,0.1
+V00933,Bread,2,0.0
+V00933,Butter,2,0.0
+V00933,Eggs,1,0.0
+V00933,Milk,1,0.0
+V00936,Bread,2,0.1
+V00936,Milk,1,0.0
+V00937,Toothpaste,1,0.0
+V00937,Wall Cleaner,1,0.0
+V00941,Eggs,1,0.0
+V00941,Soap,2,0.0
+V00941,Tea,1,0.0
+V00942,Dish Soap,2,0.0
+V00942,Floor Cleaner,3,0.05
+V00942,sponges,1,0.05
+V00942,Wall Cleaner,1,0.0
+V00943,dish soap,2,0.05
+V00943,FLOOR CLEANER,1,0.0
+V00943,Wall Cleaner,1,0.1
+V00946,Bread,1,0.05
+V00946,CHEESE,1,0.1
+V00946,Milk,2,0.0
+V00946,Toothpaste,3,0.0
+V00948,Bread,1,0.05
+V00948,Milk,1,0.05
+V00948,Polony,1,0.0
+V00951,Bread,1,0.0
+V00951,BUTTER,2,0.0
+V00951,milk,3,0.0
+V00954,Bread,1,0.0
+V00954,Butter,1,0.0
+V00955,Bread,1,0.0
+V00955,Milk,1,0.0
+V00955,Polony,3,0.0
+V00957,Dish Soap,1,0.1
+V00957,Eggs,3,0.0
+V00957,Sugar,2,0.05
+V00957,Tea,2,0.1
+V00957,Toothpaste,1,0.1
+V00958,Butter,2,0.0
+V00958,Floor Cleaner,1,0.0
+V00958,Sponges,2,0.0
+V00958,Tea,2,0.0
+V00960,Cooking Oil,1,0.0
+V00960,Dish Soap,3,0.0
+V00960,Floor Cleaner,3,0.1
+V00960,Wall Cleaner,3,0.05
+V00961,Dish Soap,1,0.0
+V00961,Floor Cleaner,2,0.0
+V00961,Wall Cleaner,1,0.0
+V00962,Cooking Oil,1,0.1
+V00962,Milk,1,0.0
+V00962,Polony,1,0.05
+V00963,Dish Soap ,2,0.0
+V00963,Toothpaste,1,0.0
+V00963,Wall Cleaner,2,0.1
+V00964,Bread,1,0.0
+V00964,butter,2,0.0
+V00964,Polony,1,0.05
+V00964,Rice,1,0.0
+V00966,Dish Soap,1,0.05
+V00966,Floor Cleaner,1,0.0
+V00966,Sponges,2,0.0
+V00966,Wall Cleaner,1,0.05
+V00967,Bread ,1,0.0
+V00967,butter,3,0.0
+V00967,Dish Soap,2,0.1
+V00967,Sugar,1,0.0
+V00967,Tea,1,0.0
+V00970,Bread,1,0.1
+V00970,Cheese,3,0.05
+V00970,Milk,2,0.05
+V00973,Floor Cleaner,3,0.0
+V00973,Rice,2,0.0
+V00973,Sponges,1,0.0
+V00976,Floor Cleaner,2,0.0
+V00976,Sponges,3,0.0
+V00976,Wall Cleaner ,1,0.1
+V00978,Bread,2,0.0
+V00978,Butter,1,0.0
+V00978,Milk,1,0.05
+V00978,Polony,2,0.1
+V00980,Bread,1,0.0
+V00980,MILK,1,0.05
+V00980,Polony,2,0.1
+V00980,Soap,2,0.0
+V00981,bread,1,0.0
+V00981,Butter,2,0.0
+V00981,Milk,2,0.0
+V00981,Sponges,2,0.0
+V00982,Bread,2,0.0
+V00982,Cheese,1,0.1
+V00982,Floor Cleaner ,3,0.1
+V00982,Sugar,1,0.0
+V00982,Toothpaste,2,0.0
+V00984,Bread,1,0.05
+V00984,Cheese,1,0.0
+V00984,Milk,1,0.05
+V00984,Sponges,1,0.0
+V00985,BUTTER,2,0.05
+V00985,Cooking Oil,1,0.0
+V00985,Dish Soap,2,0.0
+V00985,Sugar,2,0.0
+V00987,Bread,2,0.0
+V00987,Butter,1,0.0
+V00987,Milk,3,0.0
+V00988,Dish Soap,2,0.05
+V00988,Floor Cleaner,2,0.0
+V00988,Sponges,1,0.1
+V00989,Bread,2,0.05
+V00989,Butter,1,0.0
+V00989,Milk,1,0.0
+V00989,Soap,1,0.1
+V00990,Floor Cleaner,2,0.05
+V00990,Sponges,3,0.05
+V00990,Wall Cleaner,1,0.1
+V00991,Bread,1,0.0
+V00991,Butter,2,0.1
+V00991,Cheese,3,0.0
+V00991,MILK,1,0.0
+V00991,Rice,1,0.0
+V00995,Bread,1,0.0
+V00995,Cheese,1,0.0
+V00995,Milk,3,0.0
+V00995,Rice,2,0.0
+V01001,Bread,2,0.0
+V01001,Cheese,1,0.0
+V01001,Milk,1,0.05
+V01001,Tea,2,0.05
+V01002,Cooking Oil,1,0.05
+V01002,Floor Cleaner,2,0.0
+V01002,Wall Cleaner,1,0.05
+V01003,Butter,3,0.05
+V01003,Dish Soap,1,0.0
+V01003,floor cleaner,1,0.0
+V01003,Wall Cleaner,1,0.05
+V01005,Butter,1,0.05
+V01005,Cooking Oil,1,0.0
+V01005,Milk,3,0.0
+V01007,Bread,1,0.0
+V01007,Butter,1,0.0
+V01007,Cheese,2,0.0
+V01007,Milk,2,0.0
+V01007,Polony,1,0.0
+V01009,Milk,1,0.0
+V01009,Rice,2,0.05
+V01009,Tea,1,0.1
+V01012,Bread,2,0.05
+V01012,Milk,1,0.0
+V01012,Sugar,3,0.1
+V01017,Rice,1,0.05
+V01017,Soap,1,0.0
+V01017,Tea,3,0.0
+V01018,DISH SOAP,1,0.0
+V01018,Floor Cleaner,1,0.0
+V01018,Wall Cleaner,2,0.1
+V01020,Bread,1,0.0
+V01020,Cheese,1,0.05
+V01020,eggs,1,0.05
+V01020,Milk,2,0.0
+V01020,Rice,3,0.0
+V01021,BUTTER,3,0.05
+V01021,Dish Soap,1,0.0
+V01021,Eggs,1,0.0
+V01025,Bread,1,0.0
+V01025,Cheese,3,0.05
+V01025,Milk,1,0.05
+V01025,Polony,1,0.0
+V01030,Bread,2,0.0
+V01030,Butter,1,0.0
+V01030,Cheese,2,0.05
+V01030,milk,3,0.0
+V01030,Polony,3,0.0
+V01031,Eggs,2,0.0
+V01031,Soap,1,0.0
+V01031,Tea,3,0.0
+V01031,Toothpaste,1,0.0
+V01033,Bread,1,0.0
+V01033,Butter,1,0.0
+V01033,Sponges,1,0.0
+V01034,Bread,1,0.0
+V01034,Sponges,1,0.1
+V01034,Sugar,1,0.1
+V01035,Bread,2,0.1
+V01035,Milk,1,0.0
+V01035,Rice,2,0.1
+V01038,Dish Soap,1,0.0
+V01038,Floor Cleaner,2,0.0
+V01038,Sponges,2,0.0
+V01038,TEA,1,0.0
+V01039,Bread,1,0.05
+V01039,Cooking Oil,3,0.0
+V01039,Dish Soap,2,0.05
+V01039,Floor Cleaner,3,0.0
+V01040,Tea,3,0.1
+V01040,Wall Cleaner,1,0.0
+V01042,Butter,1,0.1
+V01042,Eggs,2,0.0
+V01042,Soap,3,0.0
+V01042,Tea,2,0.05
+V01043,Bread,1,0.0
+V01043,Butter,2,0.1
+V01043,Cheese,2,0.05
+V01043,Milk,2,0.0
+V01052,Dish Soap,3,0.0
+V01052,milk,1,0.0
+V01052,Sugar,2,0.0
+V01053,Floor Cleaner,1,0.0
+V01053,Milk,1,0.05
+V01053,Sponges,1,0.1
+V01054,Bread,1,0.0
+V01054,Butter,1,0.1
+V01054,Cheese,1,0.05
+V01055,Cooking Oil,1,0.0
+V01055,dish soap,2,0.1
+V01055,Floor Cleaner,2,0.0
+V01056,Bread,1,0.0
+V01056,Eggs,2,0.05
+V01056,Milk,1,0.0
+V01056,Soap,1,0.05
+V01057,Dish Soap,2,0.0
+V01057,Floor Cleaner,2,0.0
+V01057,Sponges,3,0.0
+V01059,Butter,2,0.0
+V01059,Eggs,2,0.0
+V01060,Cheese,3,0.05
+V01060,Cooking Oil,2,0.0
+V01062,Bread,2,0.05
+V01062,Cheese,1,0.0
+V01062,Sugar,3,0.0
+V01066,Cooking Oil,1,0.0
+V01066,Eggs,3,0.1
+V01066,Rice,2,0.1
+V01068,Floor Cleaner,1,0.05
+V01068,Toothpaste,2,0.0
+V01068,Wall Cleaner,2,0.0
+V01070,Dish Soap,1,0.0
+V01070,Floor Cleaner,3,0.0
+V01070,Soap,2,0.1
+V01070,SPONGES,1,0.0
+V01070,wall cleaner,1,0.0
+V01072,Bread,2,0.0
+V01072,Butter,2,0.0
+V01072,Cheese,2,0.05
+V01072,Milk,3,0.0
+V01072,Polony,1,0.05
+V01075,Bread,3,0.0
+V01075,Butter,3,0.0
+V01075,Milk,2,0.05
+V01076,Bread,2,0.05
+V01076,Sponges,1,0.05
+V01076,sugar,1,0.1
+V01076,Tea,3,0.0
+V01077,Bread,1,0.0
+V01077,Butter,2,0.0
+V01077,Milk,1,0.0
+V01079,Bread,1,0.0
+V01079,Cooking Oil,3,0.05
+V01079,Dish Soap ,1,0.0
+V01079,Milk,1,0.0
+V01079,Tea,1,0.0
+V01081,Bread,1,0.0
+V01081,Milk,1,0.1
+V01081,Polony,2,0.05
+V01082,Cheese,3,0.0
+V01082,Floor Cleaner,2,0.05
+V01082,Milk,2,0.0
+V01083,Cooking Oil,1,0.0
+V01083,Sugar,1,0.1
+V01084,Butter,1,0.0
+V01084,Soap,2,0.0
+V01084,Toothpaste,1,0.0
+V01088,BUTTER,1,0.05
+V01088,Floor Cleaner,2,0.0
+V01088,Sponges,1,0.0
+V01088,Wall Cleaner,3,0.0
+V01090,Cheese,1,0.05
+V01090,Dish Soap,1,0.05
+V01090,Floor Cleaner,2,0.05
+V01090,Wall Cleaner,1,0.0
+V01091,Cheese,1,0.0
+V01091,Dish Soap,1,0.0
+V01091,Polony,2,0.05
+V01102,bread,3,0.0
+V01102,Butter,1,0.0
+V01102,Milk,2,0.0
+V01104,Butter,2,0.1
+V01104,Sponges,1,0.1
+V01108,Bread,3,0.05
+V01108,milk,2,0.1
+V01108,Polony,2,0.1
+V01109,bread,1,0.0
+V01109,Butter,1,0.1
+V01109,Milk,2,0.0
+V01110,bread,2,0.0
+V01110,Milk,1,0.0
+V01110,Polony,1,0.0
+V01110,Wall Cleaner,1,0.1
+V01111,Floor Cleaner,3,0.0
+V01111,Sponges,1,0.05
+V01111,Wall Cleaner,3,0.0
+V01115,Dish Soap,2,0.0
+V01115,Floor Cleaner,1,0.0
+V01115,Wall Cleaner,1,0.1
+V01116,Cooking Oil,1,0.1
+V01116,Eggs,1,0.0
+V01116,Milk ,1,0.0
+V01116,Rice,1,0.0
+V01117,Butter,3,0.0
+V01117,Cheese,2,0.0
+V01117,Polony,3,0.05
+V01119,Butter,1,0.1
+V01119,Cheese,3,0.0
+V01119,Tea,3,0.0
+V01120,BREAD,3,0.0
+V01120,Butter,2,0.0
+V01120,Milk,1,0.1
+V01123,Floor Cleaner,2,0.0
+V01123,Rice,1,0.0
+V01123,Wall Cleaner,1,0.0
+V01124,cheese,1,0.0
+V01124,Cooking Oil,1,0.0
+V01124,Soap,1,0.0
+V01126,Cooking Oil,2,0.0
+V01126,Dish Soap,1,0.0
+V01126,Eggs,1,0.0
+V01127,Rice ,1,0.0
+V01127,Sugar,3,0.0
+V01131,Dish Soap,1,0.05
+V01131,Floor Cleaner,1,0.0
+V01131,Sponges,3,0.0
+V01131,Wall Cleaner,1,0.0
+V01137,Bread,1,0.1
+V01137,Butter,1,0.0
+V01137,Milk,1,0.0
+V01137,Sponges,1,0.0
+V01137,Toothpaste,1,0.0
+V01141,Bread,1,0.0
+V01141,Butter,2,0.0
+V01141,Cheese,1,0.0
+V01142,Dish Soap,1,0.0
+V01142,Floor Cleaner,2,0.05
+V01142,Sponges,2,0.0
+V01142,WALL CLEANER,1,0.0
+V01143,cooking oil,2,0.0
+V01143,Dish Soap,1,0.0
+V01143,Floor Cleaner,3,0.1
+V01143,Rice,2,0.1
+V01143,Wall Cleaner,2,0.05
+V01144,Floor Cleaner,1,0.0
+V01144,Sponges,1,0.0
+V01144,Wall Cleaner,1,0.0
+V01145,Dish Soap,2,0.05
+V01145,Toothpaste,2,0.05
+V01147,Butter,1,0.0
+V01147,Cooking Oil,1,0.0
+V01147,Milk,2,0.0
+V01147,Soap,3,0.0
+V01150,Bread,1,0.05
+V01150,Butter ,3,0.0
+V01150,Milk,2,0.0
+V01150,Polony,1,0.1
+V01150,Rice,1,0.05
+V01151,Bread,1,0.1
+V01151,Butter,3,0.05
+V01151,Cheese,2,0.05
+V01151,Milk,3,0.0
+V01151,Polony,2,0.0
+V01152,Milk,1,0.05
+V01152,Sugar,3,0.0
+V01152,Tea,2,0.0
+V01152,Toothpaste,2,0.0
+V01152,Wall Cleaner,3,0.0
+V01157,Bread,1,0.05
+V01157,Cooking Oil,3,0.05
+V01157,Floor Cleaner,1,0.05
+V01157,Wall Cleaner,2,0.05
+V01159,Cooking Oil,1,0.0
+V01159,Dish Soap,1,0.0
+V01159,Sponges,1,0.05
+V01159,Sugar,1,0.05
+V01161,Bread,3,0.0
+V01161,Butter,3,0.05
+V01161,Eggs,2,0.0
+V01161,Floor Cleaner,1,0.1
+V01161,Milk,1,0.1
+V01164,Bread,3,0.0
+V01164,Cheese,2,0.0
+V01164,EGGS,3,0.05
+V01164,Milk,2,0.0
+V01165,cheese,1,0.0
+V01165,Cooking Oil,2,0.0
+V01165,Polony,2,0.0
+V01165,Toothpaste,2,0.0
+V01182,Bread,1,0.05
+V01182,Butter,3,0.05
+V01182,Milk,3,0.05
+V01182,Polony,3,0.0
+V01186,Floor Cleaner,3,0.0
+V01186,Milk,2,0.0
+V01186,Sugar,3,0.0
+V01187,Bread,3,0.0
+V01187,Cooking Oil,2,0.05
+V01187,Dish Soap,1,0.05
+V01187,Milk,3,0.0
+V01187,Polony,3,0.1
+V01189,Cheese,2,0.05
+V01189,Dish Soap,2,0.0
+V01189,Eggs,3,0.1
+V01190,Cooking Oil,3,0.0
+V01190,Sugar,3,0.0
+V01192,Soap,1,0.05
+V01192,Tea,1,0.0
+V01193,Bread,1,0.05
+V01193,Cheese,1,0.1
+V01193,milk,1,0.1
+V01193,Polony,3,0.0
+V01197,Cooking Oil,2,0.0
+V01197,Sugar,1,0.0
+V01197,Tea,2,0.1
+V01198,Cheese,2,0.0
+V01198,Cooking Oil,1,0.0
+V01198,Tea,1,0.0
+V01198,Wall Cleaner,1,0.0
+V01200,Bread,1,0.05
+V01200,Floor Cleaner,2,0.0
+V01201,Bread,1,0.05
+V01201,Butter,3,0.0
+V01201,Milk,1,0.0
+V01201,Tea,1,0.1
+V01202,Floor Cleaner,1,0.0
+V01202,Wall Cleaner,2,0.0
+V01203,Bread,3,0.05
+V01203,Butter,1,0.0
+V01203,Cheese,3,0.05
+V01203,Milk,1,0.0
+V01203,Rice,1,0.0
+V01205,Tea,1,0.05
+V01205,Toothpaste,3,0.0
+V01205,Wall Cleaner,1,0.0
+V01206,Bread,3,0.0
+V01206,Dish Soap,1,0.0
+V01206,Soap,2,0.0
+V01207,Soap,1,0.0
+V01207,Sponges,1,0.1
+V01210,Bread,2,0.1
+V01210,Butter,3,0.0
+V01210,Cheese,1,0.0
+V01210,Milk,1,0.0
+V01212,Soap,2,0.0
+V01212,Sugar,3,0.0
+V01214,Bread,1,0.0
+V01214,Milk,2,0.05
+V01214,Sugar,1,0.0
+V01215,Bread,3,0.0
+V01215,Butter,2,0.05
+V01215,Milk,1,0.1
+V01217,Butter,1,0.0
+V01217,polony,2,0.05
+V01217,Rice,1,0.0
+V01219,Cooking Oil,2,0.0
+V01219,Dish Soap,2,0.05
+V01219,Wall Cleaner,2,0.0
+V01222,Bread,2,0.1
+V01222,Butter,2,0.0
+V01222,Cheese,1,0.05
+V01222,Milk,1,0.0
+V01224,Bread,1,0.0
+V01224,Dish Soap,1,0.0
+V01224,Toothpaste,1,0.0
+V01225,Butter,1,0.0
+V01225,Floor Cleaner,1,0.0
+V01225,Milk,1,0.05
+V01227,Bread,1,0.0
+V01227,Cooking Oil,1,0.05
+V01227,Rice,1,0.0
+V01228,Bread,2,0.0
+V01228,Butter,2,0.0
+V01228,Eggs,1,0.0
+V01228,Floor Cleaner,2,0.0
+V01230,Cooking Oil,1,0.0
+V01230,Dish Soap,2,0.05
+V01230,Eggs,1,0.0
+V01230,Milk,2,0.0
+V01230,Polony,2,0.0
+V01231,Bread,2,0.05
+V01231,Polony,1,0.05
+V01231,Soap,1,0.05
+V01231,Sugar,1,0.0
+V01232,Bread,2,0.1
+V01232,Butter,1,0.0
+V01232,cheese,3,0.0
+V01232,Milk,1,0.0
+V01232,Polony,1,0.05
+V01233,Bread,3,0.0
+V01233,Dish Soap,1,0.05
+V01233,Rice,2,0.0
+V01233,Toothpaste,1,0.0
+V01234,Dish Soap,3,0.05
+V01234,Eggs,1,0.05
+V01234,Milk,1,0.05
+V01234,Rice,1,0.1
+V01235,Bread,2,0.0
+V01235,Butter,1,0.1
+V01235,Milk,1,0.0
+V01235,Wall Cleaner,3,0.1
+V01237,Cooking Oil,1,0.0
+V01237,Dish Soap,1,0.05
+V01237,Wall Cleaner,1,0.1
+V01239,Bread,2,0.1
+V01239,Butter,1,0.1
+V01239,Milk,3,0.0
+V01241,Dish Soap,1,0.05
+V01241,Sponges,1,0.0
+V01241,Wall Cleaner,3,0.0
+V01246,Dish Soap,1,0.05
+V01246,Floor Cleaner,1,0.05
+V01246,Wall Cleaner,1,0.0
+V01251,Bread,3,0.0
+V01251,Milk,2,0.0
+V01251,Polony,2,0.05
+V01253,Bread,1,0.05
+V01253,Butter,1,0.0
+V01253,Milk,2,0.0
+V01253,Polony,2,0.0
+V01254,Cooking Oil,2,0.1
+V01254,Eggs,2,0.0
+V01254,Toothpaste,3,0.05
+V01254,WALL CLEANER,3,0.0
+V01255,Bread,2,0.0
+V01255,Cheese ,3,0.0
+V01255,Cooking Oil,1,0.0
+V01255,Polony,1,0.1
+V01255,Wall Cleaner,1,0.0
+V01257,Bread,1,0.0
+V01257,Butter,1,0.0
+V01257,Milk,1,0.1
+V01259,Bread,1,0.0
+V01259,Butter,2,0.0
+V01259,Milk,3,0.0
+V01259,Toothpaste,2,0.0
+V01260,Bread,1,0.0
+V01260,Butter,2,0.0
+V01260,Cheese,1,0.0
+V01260,Milk,1,0.0
+V01262,Butter,1,0.0
+V01262,Dish Soap,2,0.0
+V01262,Rice,1,0.1
+V01263,Rice,1,0.05
+V01263,Soap,2,0.0
+V01267,Bread,3,0.0
+V01267,Milk,2,0.1
+V01270,Bread,2,0.0
+V01270,Rice,2,0.0
+V01270,Sponges,1,0.0
+V01270,SUGAR,2,0.1
+V01271,Bread,1,0.0
+V01271,Butter ,2,0.0
+V01271,Cheese,1,0.0
+V01271,Milk,1,0.0
+V01272,Cheese,2,0.0
+V01272,Floor Cleaner,1,0.05
+V01272,SPONGES,1,0.0
+V01273,Bread,3,0.0
+V01273,Butter,1,0.0
+V01273,Milk,2,0.1
+V01273,Polony,1,0.0
+V01274,Cooking Oil,3,0.0
+V01274,DISH SOAP,3,0.0
+V01274,Rice,1,0.0
+V01274,Soap,1,0.0
+V01276,Cheese,1,0.05
+V01276,Milk,1,0.0
+V01276,Soap,1,0.1
+V01276,Wall Cleaner,1,0.0
+V01277,Bread,2,0.05
+V01277,Cheese,1,0.1
+V01277,Milk,1,0.0
+V01280,Bread,3,0.1
+V01280,cheese,2,0.0
+V01280,Milk,2,0.1
+V01280,Polony,3,0.0
+V01280,Rice,2,0.0
+V01281,Butter,2,0.0
+V01281,Soap,1,0.1
+V01281,Sponges,1,0.0
+V01283,Floor Cleaner,1,0.05
+V01283,Sponges,1,0.1
+V01283,wall cleaner,1,0.0
+V01284,Dish Soap,2,0.0
+V01284,Floor Cleaner,1,0.05
+V01284,Rice,3,0.05
+V01284,Toothpaste,2,0.05
+V01285,Bread,2,0.05
+V01285,Butter,3,0.0
+V01285,Cheese,1,0.0
+V01285,Wall Cleaner,2,0.0
+V01286,Dish Soap,2,0.05
+V01286,Sponges,1,0.0
+V01292,Bread,1,0.0
+V01292,Cooking Oil,1,0.05
+V01292,Milk,2,0.1
+V01292,Soap,1,0.0
+V01294,Bread,1,0.0
+V01294,Polony,3,0.1
+V01294,sponges,2,0.0
+V01294,Wall Cleaner,2,0.05
+V01296,Sponges,1,0.1
+V01296,Tea,1,0.05
+V01300,Dish Soap,2,0.0
+V01300,Floor Cleaner,1,0.0
+V01300,Wall Cleaner,1,0.1
+V01301,Bread ,1,0.0
+V01301,Butter,1,0.1
+V01301,Milk,3,0.05
+V01302,Floor Cleaner,1,0.0
+V01302,Polony,2,0.0
+V01302,Rice,2,0.0
+V01302,Soap,1,0.0
+V01305,Floor Cleaner,1,0.0
+V01305,Soap,3,0.05
+V01306,Polony,3,0.0
+V01306,Soap,1,0.0
+V01306,Toothpaste ,1,0.0
+V01309,Bread,3,0.0
+V01309,Milk,1,0.0
+V01309,Polony,1,0.1
+V01309,Toothpaste,2,0.0
+V01310,Bread,1,0.1
+V01310,Floor Cleaner,1,0.0
+V01310,Sponges,1,0.0
+V01310,Wall Cleaner,2,0.0
+V01311,Bread ,2,0.0
+V01311,BUTTER,3,0.1
+V01311,Milk,1,0.0
+V01311,Toothpaste,1,0.0
+V01314,Bread,1,0.0
+V01314,Butter,2,0.0
+V01314,Milk,2,0.05
+V01314,Wall Cleaner,1,0.0
+V01315,Bread,1,0.0
+V01315,Cooking Oil,2,0.05
+V01315,Milk,1,0.05
+V01316,Bread,1,0.1
+V01316,Butter,1,0.0
+V01316,Milk,3,0.05
+V01317,Cheese,2,0.05
+V01317,Floor Cleaner,1,0.0
+V01317,Rice,2,0.0
+V01317,Sponges,2,0.0
+V01317,Wall Cleaner,1,0.1
+V01318,Bread,1,0.0
+V01318,Floor Cleaner,2,0.1
+V01320,Cheese,1,0.0
+V01320,Floor Cleaner,1,0.1
+V01320,Polony,2,0.0
+V01320,Wall Cleaner,1,0.0
+V01321,Butter,2,0.05
+V01321,Polony,1,0.0
+V01322,Bread,1,0.0
+V01322,Butter,1,0.0
+V01322,DISH SOAP,3,0.0
+V01323,Soap,1,0.05
+V01323,Wall Cleaner,1,0.0
+V01324,Bread,1,0.1
+V01324,Butter,2,0.0
+V01324,Milk,1,0.0
+V01324,Polony,2,0.0
+V01326,Bread,2,0.0
+V01326,Dish Soap,2,0.0
+V01326,Floor Cleaner,1,0.1
+V01326,Tea,1,0.0
+V01329,Bread,1,0.05
+V01329,Butter,3,0.0
+V01329,MILK,3,0.0
+V01329,Polony,1,0.0
+V01331,Bread,1,0.05
+V01331,SOAP,1,0.1
+V01335,Bread,3,0.0
+V01335,Milk,2,0.05
+V01335,Toothpaste,1,0.0
+V01337,Bread,2,0.05
+V01337,Butter,3,0.0
+V01337,Cheese,2,0.0
+V01337,Milk,2,0.0
+V01337,Polony,3,0.0
+V01339,Bread,1,0.0
+V01339,Milk,1,0.1
+V01339,Sugar,1,0.05
+V01341,Dish Soap,1,0.0
+V01341,Floor Cleaner,3,0.0
+V01341,sponges,1,0.1
+V01341,Wall Cleaner,1,0.1
+V01342,Rice,3,0.0
+V01342,Sponges,2,0.0
+V01346,Bread,1,0.05
+V01346,Sponges,1,0.0
+V01346,Wall Cleaner,1,0.0
+V01348,Butter,1,0.0
+V01348,Dish Soap,1,0.1
+V01348,Floor Cleaner,1,0.1
+V01348,Wall Cleaner,2,0.0
+V01349,Cooking Oil,1,0.05
+V01349,Eggs,1,0.0
+V01349,Polony,2,0.0
+V01349,Wall Cleaner,1,0.0
+V01350,Cheese,1,0.0
+V01350,Floor Cleaner,2,0.05
+V01350,Sponges,1,0.0
+V01350,Wall Cleaner,1,0.0
+V01351,Floor Cleaner,1,0.0
+V01351,Wall Cleaner,1,0.0
+V01352,Bread,2,0.0
+V01352,Butter,3,0.0
+V01352,Cheese,2,0.05
+V01352,Milk,2,0.05
+V01353,Bread,3,0.0
+V01353,Milk,1,0.0
+V01353,Tea,1,0.1
+V01360,Bread,3,0.0
+V01360,Cheese,1,0.05
+V01360,Polony,1,0.0
+V01362,Bread,1,0.0
+V01362,Butter,1,0.0
+V01363,Eggs,2,0.0
+V01363,Milk,2,0.1
+V01363,Toothpaste,2,0.1
+V01364,Butter,3,0.05
+V01364,Eggs,1,0.05
+V01364,Wall Cleaner,2,0.0
+V01367,Bread,1,0.1
+V01367,Butter,1,0.0
+V01367,Cooking Oil,3,0.0
+V01370,Bread,1,0.05
+V01370,Milk,3,0.05
+V01370,Polony,2,0.05
+V01371,Dish Soap,1,0.05
+V01371,Floor Cleaner,1,0.0
+V01371,Sponges,1,0.0
+V01372,Cheese,3,0.05
+V01372,Floor Cleaner,2,0.0
+V01372,Toothpaste,2,0.0
+V01372,Wall Cleaner,2,0.1
+V01375,Dish Soap,1,0.0
+V01375,Floor Cleaner,1,0.1
+V01375,Wall Cleaner,1,0.0
+V01376,Bread,2,0.0
+V01376,Butter,2,0.0
+V01376,Milk,2,0.0
+V01378,Bread,2,0.05
+V01378,Butter,2,0.0
+V01378,Cheese,1,0.1
+V01378,Cooking Oil,2,0.05
+V01378,Milk,1,0.0
+V01379,Cooking Oil ,1,0.0
+V01379,Dish Soap,3,0.0
+V01379,Tea,2,0.1
+V01381,Bread,1,0.05
+V01381,Polony,1,0.0
+V01385,Butter,2,0.0
+V01385,Floor Cleaner,1,0.05
+V01385,sponges,2,0.0
+V01385,Wall Cleaner,1,0.0
+V01388,Bread,3,0.0
+V01388,BUTTER,3,0.0
+V01388,Milk,3,0.0
+V01391,Dish Soap,1,0.0
+V01391,Floor Cleaner,2,0.0
+V01391,Sponges,3,0.1
+V01391,Wall Cleaner,1,0.0
+V01392,Butter,2,0.0
+V01392,Dish Soap,1,0.05
+V01392,Floor Cleaner,1,0.1
+V01393,Eggs,2,0.0
+V01393,Floor Cleaner,1,0.0
+V01393,Soap,1,0.1
+V01394,Bread,1,0.0
+V01394,Butter,2,0.1
+V01394,Dish Soap,2,0.1
+V01394,Milk,1,0.05
+V01395,Soap,1,0.0
+V01395,Wall Cleaner,2,0.0
+V01396,Dish Soap,2,0.05
+V01396,Floor Cleaner,2,0.0
+V01396,Wall Cleaner,3,0.0
+V01398,Bread,1,0.0
+V01398,Butter,2,0.1
+V01398,Floor Cleaner,2,0.05
+V01398,Milk,1,0.0
+V01399,Bread,2,0.1
+V01399,MILK,1,0.0
+V01400,Soap,2,0.05
+V01400,Sponges,2,0.0
+V01400,Tea,1,0.0
+V01400,Wall Cleaner,1,0.05
+V01404,Eggs,1,0.0
+V01404,Polony,1,0.1
+V01404,Tea,2,0.1
+V01405,Bread,1,0.05
+V01405,Dish Soap,1,0.05
+V01405,Eggs,1,0.0
+V01405,Floor Cleaner,1,0.0
+V01406,Polony,1,0.0
+V01406,Toothpaste,3,0.1
+V01412,Bread,3,0.0
+V01412,Butter,1,0.0
+V01413,Bread,2,0.0
+V01413,Butter,3,0.0
+V01413,Floor Cleaner,2,0.0
+V01413,Milk,2,0.0
+V01414,Bread,3,0.0
+V01414,Milk,2,0.0
+V01414,Tea,2,0.0
+V01416,Dish Soap,2,0.0
+V01416,TOOTHPASTE,1,0.05
+V01417,Cheese,3,0.0
+V01417,Dish Soap,3,0.0
+V01417,Milk,3,0.0
+V01418,Bread,1,0.0
+V01418,Dish Soap,1,0.0
+V01418,Milk,1,0.0
+V01420,Cheese,1,0.05
+V01420,Dish Soap,2,0.0
+V01420,Eggs,1,0.0
+V01420,Floor Cleaner,1,0.1
+V01420,Milk,1,0.0
+V01422,Floor Cleaner,3,0.1
+V01422,Rice,1,0.0
+V01422,Soap,2,0.05
+V01422,Sponges,2,0.1
+V01422,Tea,2,0.05
+V01423,Bread,3,0.0
+V01423,MILK,1,0.1
+V01427,Bread,2,0.05
+V01427,cheese,2,0.1
+V01427,TOOTHPASTE,1,0.1
+V01429,Bread,1,0.1
+V01429,Eggs,3,0.05
+V01429,Tea,1,0.0
+V01431,Cheese,1,0.0
+V01431,Eggs,1,0.0
+V01431,Sponges,1,0.0
+V01432,Bread,2,0.0
+V01432,Dish Soap,2,0.0
+V01432,Tea,2,0.1
+V01434,Floor Cleaner,2,0.0
+V01434,SPONGES,3,0.0
+V01434,Toothpaste,1,0.0
+V01434,Wall Cleaner,2,0.05
+V01436,Dish Soap,1,0.0
+V01436,Floor Cleaner,1,0.1
+V01436,Sponges,2,0.05
+V01436,Tea,1,0.05
+V01437,Polony,3,0.1
+V01437,Wall Cleaner,1,0.1
+V01440,Bread,2,0.1
+V01440,Butter ,3,0.0
+V01440,Cheese,3,0.0
+V01440,Milk,1,0.05
+V01441,Dish Soap,1,0.0
+V01441,Floor Cleaner,3,0.1
+V01441,Sponges,3,0.0
+V01441,Wall Cleaner,3,0.0
+V01442,Dish Soap,2,0.1
+V01442,Floor Cleaner,1,0.0
+V01442,Wall Cleaner,1,0.0
+V01443,Bread,3,0.0
+V01443,Cheese,3,0.1
+V01445,Bread,2,0.05
+V01445,Floor Cleaner,2,0.0
+V01445,Sponges,1,0.1
+V01445,Wall Cleaner,1,0.1
+V01449,Cheese,3,0.05
+V01449,Floor Cleaner,2,0.05
+V01449,Sponges,1,0.0
+V01455,Bread,2,0.0
+V01455,Cooking Oil,3,0.05
+V01455,Tea,1,0.0
+V01455,Wall Cleaner,2,0.0
+V01456,Cooking Oil,3,0.05
+V01456,Tea,1,0.05
+V01458,Bread,2,0.05
+V01458,butter,3,0.1
+V01458,Cooking Oil,1,0.1
+V01458,Rice,1,0.1
+V01458,Wall Cleaner,1,0.05
+V01460,Floor Cleaner,1,0.0
+V01460,Rice,1,0.0
+V01460,Sponges,2,0.0
+V01461,Eggs,3,0.1
+V01461,Sponges,2,0.05
+V01461,Tea,3,0.0
+V01461,Toothpaste,1,0.1
+V01464,Bread,1,0.0
+V01464,Cheese,1,0.0
+V01464,Polony,1,0.0
+V01466,Bread,1,0.0
+V01466,Butter,1,0.05
+V01466,Cheese,2,0.0
+V01466,Milk,3,0.0
+V01466,Sponges,2,0.0
+V01469,BREAD,1,0.0
+V01469,Eggs,2,0.1
+V01469,Floor Cleaner,2,0.0
+V01469,SUGAR,3,0.0
+V01472,Eggs,2,0.0
+V01472,Rice,3,0.05
+V01472,Toothpaste,3,0.0
+V01473,Eggs,1,0.05
+V01473,Polony,2,0.0
+V01473,Rice,2,0.0
+V01478,Bread,2,0.05
+V01478,Butter,3,0.0
+V01478,Cheese,3,0.05
+V01478,Milk,1,0.1
+V01479,Bread,3,0.1
+V01479,Dish Soap,1,0.0
+V01479,Eggs,2,0.1
+V01479,Sugar,2,0.0
+V01485,Bread,2,0.05
+V01485,Cheese,2,0.0
+V01485,Dish Soap,1,0.0
+V01485,Soap,1,0.0
+V01485,Sponges,3,0.0
+V01486,Floor Cleaner,2,0.05
+V01486,Toothpaste,2,0.0
+V01486,Wall Cleaner,1,0.0
+V01488,Floor Cleaner,2,0.1
+V01488,Sponges,2,0.0
+V01488,Wall Cleaner,1,0.0
+V01489,Dish Soap,1,0.1
+V01489,Toothpaste,1,0.0
+V01492,Bread,1,0.0
+V01492,Butter,3,0.0
+V01492,Milk,1,0.05
+V01492,Polony,3,0.05
+V01493,Cheese,2,0.0
+V01493,Sponges,1,0.1
+V01493,Wall Cleaner,1,0.0
+V01495,Soap,1,0.05
+V01495,Wall Cleaner,2,0.0
+V01496,Bread,3,0.1
+V01496,Milk,1,0.0
+V01496,Polony,2,0.0
+V01496,Sponges,1,0.1
+V01496,Wall Cleaner,3,0.0
+V01498,Dish Soap,1,0.05
+V01498,Floor Cleaner,1,0.0
+V01498,Sponges,2,0.0
+V01498,Wall Cleaner,3,0.0
+V01500,Dish Soap,1,0.0
+V01500,Floor Cleaner,2,0.1
+V01500,sponges,1,0.0
+V01500,Wall Cleaner,2,0.1
+V01501,Floor Cleaner,2,0.0
+V01501,Sponges,3,0.0
+V01501,Wall Cleaner,2,0.05
+V01502,Dish Soap,1,0.05
+V01502,Floor Cleaner,2,0.05
+V01502,Milk,1,0.0
+V01502,Wall Cleaner,1,0.0
+V01504,Butter,1,0.05
+V01504,Cheese,2,0.0
+V01504,Floor Cleaner,2,0.1
+V01504,Sugar,2,0.0
+V01508,Cheese,3,0.0
+V01508,Dish Soap,3,0.1
+V01508,Floor Cleaner,2,0.0
+V01508,Sponges,1,0.1
+V01508,WALL CLEANER,1,0.0
+V01509,Cooking Oil,2,0.0
+V01509,Rice,1,0.05
+V01509,soap,1,0.0
+V01509,Tea,2,0.0
+V01510,Butter,2,0.1
+V01510,Dish Soap,2,0.0
+V01510,Floor Cleaner,2,0.0
+V01510,Wall Cleaner,3,0.1
+V01511,Dish Soap,2,0.0
+V01511,Milk,3,0.0
+V01515,Floor Cleaner,2,0.1
+V01515,Sponges,1,0.0
+V01515,Wall Cleaner,2,0.0
+V01516,Bread,3,0.05
+V01516,Butter,2,0.1
+V01516,Milk,1,0.0
+V01516,TOOTHPASTE,1,0.05
+V01517,Bread,2,0.0
+V01517,Floor Cleaner,1,0.1
+V01519,Floor Cleaner,3,0.05
+V01519,Sponges,1,0.1
+V01519,Wall Cleaner,1,0.0
+V01520,Bread,2,0.0
+V01520,Butter,1,0.05
+V01520,Rice,1,0.0
+V01522,Bread,3,0.0
+V01522,Cheese,1,0.05
+V01522,Tea,1,0.0
+V01523,Bread,1,0.0
+V01523,Butter,2,0.0
+V01523,Milk,1,0.0
+V01523,POLONY,2,0.0
+V01525,Sponges,1,0.1
+V01525,Tea,2,0.05
+V01525,Toothpaste,1,0.1
+V01525,Wall Cleaner,1,0.0
+V01526,Bread,1,0.0
+V01526,Milk,1,0.0
+V01527,Floor Cleaner,2,0.0
+V01527,Rice,3,0.0
+V01527,Sponges,1,0.05
+V01527,Wall Cleaner,2,0.0
+V01528,Dish Soap,3,0.0
+V01528,Floor Cleaner,1,0.05
+V01528,Wall Cleaner,2,0.0
+V01530,Cheese,2,0.05
+V01530,Eggs,3,0.1
+V01530,Milk,1,0.0
+V01533,BREAD,1,0.1
+V01533,Butter,1,0.0
+V01533,Cheese,2,0.0
+V01533,Milk,1,0.0
+V01533,Polony,2,0.1
+V01535,bread,2,0.0
+V01535,Butter,2,0.0
+V01535,Milk,3,0.05
+V01535,Sugar,1,0.0
+V01537,Cooking Oil,1,0.0
+V01537,Polony,2,0.0
+V01537,Rice,1,0.05
+V01537,Sponges,2,0.0
+V01538,Floor Cleaner,1,0.0
+V01538,Wall Cleaner,1,0.0
+V01545,Dish Soap,1,0.05
+V01545,Floor Cleaner,1,0.0
+V01545,Wall Cleaner,1,0.0
+V01548,polony,2,0.0
+V01548,Wall Cleaner,2,0.1
+V01549,Bread,2,0.05
+V01549,Butter,1,0.0
+V01549,Milk,3,0.0
+V01549,Polony,2,0.0
+V01550,Sponges,1,0.0
+V01550,Sugar,1,0.0
+V01550,Toothpaste,1,0.0
+V01552,Bread,2,0.1
+V01552,Milk,2,0.05
+V01552,Polony,1,0.0
+V01552,Rice,2,0.0
+V01553,Dish Soap,1,0.0
+V01553,Tea,2,0.0
+V01555,Bread,1,0.0
+V01555,Butter,2,0.0
+V01555,Milk,1,0.0
+V01555,Polony,2,0.0
+V01556,Cheese,1,0.0
+V01556,Soap,3,0.05
+V01556,sugar,1,0.05
+V01557,Bread,3,0.1
+V01557,Milk,1,0.1
+V01558,Butter,2,0.05
+V01558,Dish Soap,3,0.1
+V01558,Toothpaste,3,0.0
+V01559,Bread,1,0.0
+V01559,Cheese,1,0.0
+V01559,Milk,2,0.05
+V01559,Sponges,2,0.0
+V01560,Floor Cleaner,3,0.1
+V01560,MILK,3,0.05
+V01560,Wall Cleaner,1,0.0
+V01563,Bread,2,0.0
+V01563,Soap,3,0.0
+V01566,Bread,2,0.05
+V01566,Cheese,1,0.0
+V01566,Dish Soap,2,0.0
+V01566,Polony,2,0.0
+V01567,Bread,2,0.0
+V01567,Eggs,2,0.0
+V01570,Floor Cleaner,2,0.0
+V01570,Rice,2,0.05
+V01570,Sponges,2,0.05
+V01570,Wall Cleaner,1,0.0
+V01572,Dish Soap,1,0.0
+V01572,Floor Cleaner,2,0.0
+V01572,Wall Cleaner,1,0.05
+V01574,Butter,3,0.0
+V01574,Floor Cleaner,1,0.1
+V01574,Polony,2,0.0
+V01574,Sponges,3,0.05
+V01579,Bread,1,0.0
+V01579,Butter,2,0.0
+V01579,Polony,1,0.05
+V01579,Sponges,2,0.0
+V01580,Eggs,2,0.0
+V01580,Polony,2,0.05
+V01580,Toothpaste,1,0.1
+V01583,Dish Soap,1,0.0
+V01583,Floor Cleaner,2,0.05
+V01583,Sponges,1,0.0
+V01583,Wall Cleaner,1,0.0
+V01585,Cooking Oil,1,0.0
+V01585,Milk,3,0.0
+V01585,Wall Cleaner,2,0.0
+V01587,Soap,1,0.1
+V01587,Sugar,1,0.1
+V01587,toothpaste,2,0.0
+V01588,Bread,1,0.0
+V01588,Cooking Oil,1,0.0
+V01588,Dish Soap,1,0.0
+V01588,Rice,3,0.05
+V01588,Soap,1,0.05
+V01589,Milk,1,0.05
+V01589,Tea,1,0.05
+V01589,Wall Cleaner,2,0.0
+V01591,Eggs,1,0.1
+V01591,Soap,2,0.0
+V01591,sponges,1,0.0
+V01593,Bread,2,0.0
+V01593,Cheese,1,0.0
+V01593,Polony,3,0.0
+V01596,Floor Cleaner,1,0.05
+V01596,Wall Cleaner,1,0.1
+V01597,Eggs,2,0.0
+V01597,Milk,2,0.0
+V01597,Rice,1,0.0
+V01598,Dish Soap,1,0.1
+V01598,Floor Cleaner,2,0.1
+V01598,Wall Cleaner,1,0.0
+V01604,Butter,1,0.05
+V01604,Cheese,1,0.0
+V01604,Floor Cleaner,2,0.05
+V01606,Dish Soap,3,0.0
+V01606,Floor Cleaner,1,0.05
+V01606,Sponges,1,0.0
+V01606,Tea,2,0.0
+V01606,Wall Cleaner,3,0.0
+V01609,DISH SOAP,1,0.0
+V01609,FLOOR CLEANER,2,0.05
+V01609,Sugar,1,0.05
+V01609,Wall Cleaner,1,0.1
+V01615,Bread,1,0.1
+V01615,Butter,1,0.0
+V01615,Cheese,1,0.05
+V01615,Milk,1,0.1
+V01615,Wall Cleaner,1,0.0
+V01616,Eggs,2,0.0
+V01616,Polony,1,0.05
+V01616,Soap,1,0.0
+V01617,Bread,1,0.0
+V01617,Butter,1,0.0
+V01617,Polony,1,0.0
+V01617,Toothpaste,3,0.1
+V01622,Cooking Oil,3,0.0
+V01622,Dish Soap,3,0.0
+V01622,Floor Cleaner,1,0.0
+V01622,Wall Cleaner,2,0.0
+V01623,Bread,2,0.05
+V01623,Butter,1,0.0
+V01623,Milk,3,0.0
+V01625,Floor Cleaner,2,
+V01625,Wall Cleaner,2,0.0
+V01626,Bread,3,0.0
+V01626,Cooking Oil,1,0.0
+V01626,Wall Cleaner,2,0.0
+V01633,Butter,1,0.0
+V01633,Sugar,1,0.0
+V01633,Wall Cleaner,1,0.05
+V01634,Floor Cleaner,2,0.1
+V01634,Polony,3,0.1
+V01635,Butter,3,0.05
+V01635,Cooking Oil,3,0.0
+V01635,Polony,3,0.0
+V01635,Rice,1,0.0
+V01636,Bread,1,0.1
+V01636,Milk,1,0.1
+V01636,Polony,1,0.0
+V01637,Dish Soap,1,0.0
+V01637,Rice,2,0.0
+V01637,Wall Cleaner,1,0.05
+V01639,Bread,2,0.0
+V01639,Butter,1,0.1
+V01639,Milk,3,0.0
+V01639,Tea,3,0.1
+V01640,Floor Cleaner,1,0.1
+V01640,Sugar,2,0.05
+V01642,Dish Soap,1,0.0
+V01642,Floor Cleaner,2,0.05
+V01642,Sponges,1,0.1
+V01642,Wall Cleaner,2,0.05
+V01644,Bread,3,0.0
+V01644,Milk,2,0.0
+V01647,Rice,2,0.0
+V01647,Soap,1,0.0
+V01648,Bread,1,0.0
+V01648,Butter,2,0.0
+V01648,Polony,1,0.0
+V01649,Cooking Oil,3,0.0
+V01649,Wall Cleaner,1,0.1
+V01650,Bread,2,0.1
+V01650,Milk ,3,0.0
+V01654,Bread,1,0.1
+V01654,Butter,3,0.0
+V01654,Floor Cleaner,2,0.0
+V01655,Cheese,1,0.0
+V01655,Cooking Oil,1,0.0
+V01655,Rice,1,0.0
+V01655,Wall Cleaner,2,0.0
+V01657,Bread,2,0.05
+V01657,Butter,3,0.05
+V01657,Cheese,1,0.1
+V01657,Tea,1,0.1
+V01662,Cheese,2,0.0
+V01662,Floor Cleaner,1,0.0
+V01662,Sponges,3,0.0
+V01662,Toothpaste,3,0.0
+V01662,Wall Cleaner,2,0.0
+V01663,Floor Cleaner,1,0.0
+V01663,Wall Cleaner,1,0.1
+V01665,Dish Soap,2,0.0
+V01665,Floor Cleaner,2,0.0
+V01665,Sponges,3,0.0
+V01665,Wall Cleaner,3,0.0
+V01668,Bread,1,0.1
+V01668,Butter,1,0.0
+V01668,Cheese,1,0.1
+V01668,Milk,1,0.1
+V01669,Dish Soap,2,0.0
+V01669,Soap,1,0.1
+V01669,Tea,1,0.0
+V01669,Toothpaste,2,0.0
+V01671,Bread,3,0.0
+V01671,Polony,1,0.0
+V01672,Eggs,1,0.05
+V01672,Polony ,1,0.05
+V01672,Sugar,1,0.0
+V01672,Toothpaste,1,0.05
+V01676,Bread,1,0.0
+V01676,Butter,2,0.0
+V01676,Cheese,1,0.05
+V01676,Milk,1,0.0
+V01678,Bread,1,0.0
+V01678,Floor Cleaner,1,0.05
+V01678,Sponges,2,0.0
+V01678,Toothpaste,2,0.05
+V01679,Dish Soap,1,0.05
+V01679,Polony,2,0.05
+V01679,Sugar,2,0.0
+V01679,Toothpaste,1,0.05
+V01681,Bread,2,0.1
+V01681,Milk,1,0.0
+V01681,POLONY,1,0.1
+V01681,Wall Cleaner,2,0.1
+V01682,Floor Cleaner,2,0.1
+V01682,Polony,2,0.0
+V01682,sponges,2,0.1
+V01682,Wall Cleaner,3,0.0
+V01684,Cooking Oil,2,0.0
+V01684,Floor Cleaner,3,0.0
+V01684,Rice,3,0.0
+V01684,Tea,1,0.1
+V01687,Butter,3,0.0
+V01687,Floor Cleaner,1,0.0
+V01687,Soap,1,0.0
+V01687,Toothpaste,3,0.0
+V01689,Bread,1,0.05
+V01689,Butter,2,0.1
+V01689,Milk,2,0.1
+V01694,Floor Cleaner,2,0.0
+V01694,Polony,1,0.0
+V01694,Rice,1,0.05
+V01698,Bread,2,0.05
+V01698,Butter,1,0.1
+V01698,milk,3,0.0
+V01698,Polony,1,0.05
+V01699,Bread,2,0.05
+V01699,BUTTER,3,0.0
+V01699,Cheese,3,0.1
+V01699,Milk,1,0.0
+V01704,Bread,1,0.0
+V01704,Eggs,1,0.1
+V01706,Eggs,2,0.0
+V01706,Milk ,2,0.0
+V01706,Sugar,1,0.0
+V01706,Wall Cleaner,3,0.05
+V01708,Bread,2,0.0
+V01708,Butter,1,0.05
+V01708,Cheese,1,0.0
+V01708,Milk,2,0.0
+V01710,Dish Soap,1,0.0
+V01710,Floor Cleaner,3,0.05
+V01710,Tea,2,0.0
+V01710,Wall Cleaner,1,0.05
+V01711,Bread,1,0.0
+V01711,Milk,2,0.05
+V01711,Rice,1,0.0
+V01711,Tea,1,0.0
+V01711,Wall Cleaner,2,0.05
+V01715,Dish Soap,3,0.0
+V01715,Floor Cleaner,1,0.0
+V01715,Sponges,1,0.0
+V01722,Bread,1,0.0
+V01722,Butter,1,0.0
+V01722,Milk,2,0.05
+V01722,Polony,3,0.1
+V01724,Bread,1,0.0
+V01724,Butter,2,0.05
+V01724,Rice,3,0.05
+V01725,Bread,1,0.1
+V01725,Butter,1,0.05
+V01725,Eggs,1,0.0
+V01725,Milk,2,0.0
+V01728,Bread,1,0.0
+V01728,Butter,1,0.1
+V01728,Cheese,2,0.05
+V01728,Milk,1,0.05
+V01728,Polony,2,0.05
+V01730,Bread,1,0.0
+V01730,Cheese,1,0.1
+V01730,Milk,1,0.05
+V01731,cooking oil,2,0.0
+V01731,Dish Soap,2,0.0
+V01731,Milk,1,0.0
+V01731,Sugar,1,0.0
+V01732,Bread,1,0.0
+V01732,Cheese,1,0.0
+V01732,Milk,1,0.1
+V01732,Polony,2,0.05
+V01736,Cooking Oil,1,0.1
+V01736,Milk,2,0.0
+V01738,Bread,2,0.0
+V01738,butter,1,0.1
+V01738,Milk,3,0.1
+V01739,Cooking Oil,2,0.1
+V01739,Soap,1,0.05
+V01742,Bread,1,0.0
+V01742,TEA,1,0.0
+V01743,Dish Soap,1,0.0
+V01743,Floor Cleaner,1,0.1
+V01743,WALL CLEANER,1,0.0
+V01745,Bread,1,0.0
+V01745,Butter,1,0.0
+V01745,Milk,1,0.1
+V01745,Polony,2,0.1
+V01745,Sponges,1,0.05
+V01748,Cooking Oil,1,0.1
+V01748,RICE,1,0.05
+V01748,WALL CLEANER,1,0.0
+V01749,Bread,2,0.0
+V01749,Butter,3,0.0
+V01749,Cheese,1,0.05
+V01749,Milk,1,0.0
+V01749,Sugar,2,0.0
+V01750,Butter,3,0.0
+V01750,Cheese,2,0.0
+V01750,Floor Cleaner,1,0.1
+V01750,Sugar,1,0.1
+V01751,Bread,1,0.05
+V01751,Butter,1,0.1
+V01751,Cheese,1,0.1
+V01751,Milk,3,0.0
+V01751,Polony,1,0.0
+V01752,Sugar,2,0.05
+V01752,Toothpaste,3,0.05
+V01758,Bread,2,0.1
+V01758,Cheese,1,0.0
+V01758,cooking oil,3,0.0
+V01758,POLONY,2,0.0
+V01761,Bread,2,0.0
+V01761,Butter,2,0.05
+V01761,Cheese,1,0.0
+V01761,Milk,2,0.0
+V01761,Polony,2,0.1
+V01762,Bread,1,0.05
+V01762,Cheese,2,0.0
+V01762,Milk,1,0.0
+V01762,Polony,1,0.0
+V01763,Bread,3,0.05
+V01763,Butter,1,0.0
+V01763,Cheese,2,0.05
+V01763,Milk,1,0.05
+V01764,Bread,2,0.0
+V01764,Dish Soap,3,0.05
+V01764,Floor Cleaner,3,0.0
+V01764,Sponges,1,0.0
+V01764,Wall Cleaner,2,0.0
+V01767,Bread,1,0.05
+V01767,Cheese,1,0.1
+V01767,Milk ,2,0.05
+V01767,Polony,1,0.0
+V01767,Toothpaste,1,0.0
+V01770,Cooking Oil,1,0.1
+V01770,Dish Soap,1,0.1
+V01770,Floor Cleaner,1,0.05
+V01771,Bread,3,0.05
+V01771,Dish Soap,1,0.05
+V01772,Bread,1,0.1
+V01772,Cheese,1,0.0
+V01772,Dish Soap,1,0.05
+V01772,Milk,2,0.0
+V01773,Bread,2,0.0
+V01773,Butter,1,0.05
+V01773,Cheese,1,0.0
+V01773,Milk,1,0.1
+V01773,Polony,1,0.0
+V01774,Dish Soap,2,0.05
+V01774,Floor Cleaner,2,0.0
+V01774,Sponges,1,0.1
+V01774,Wall Cleaner,1,0.0
+V01776,Bread,1,0.1
+V01776,Butter,3,0.0
+V01776,Cheese,2,0.0
+V01776,Polony,2,0.1
+V01777,SUGAR,2,0.1
+V01777,Wall Cleaner,3,0.0
+V01779,Dish Soap,2,0.1
+V01779,Rice,1,0.1
+V01779,Sponges,1,0.05
+V01779,Wall Cleaner,2,0.0
+V01783,Cheese,1,0.0
+V01783,Eggs,2,0.0
+V01783,Soap,2,0.0
+V01785,Polony,1,0.0
+V01785,Sponges,1,0.0
+V01796,Dish Soap,1,0.0
+V01796,Floor Cleaner ,2,0.0
+V01796,Wall Cleaner,1,0.0
+V01798,Butter,1,0.1
+V01798,Cooking Oil,2,0.0
+V01798,Toothpaste,2,0.05
+V01799,Floor Cleaner,2,0.05
+V01799,TEA,1,0.0
+V01799,Wall Cleaner,3,0.0
+V01800,Dish Soap,1,0.0
+V01800,Floor Cleaner,1,0.1
+V01800,Sponges,2,0.1
+V01800,wall cleaner,2,0.0
+V01802,Floor Cleaner,2,0.05
+V01802,sponges,3,0.0
+V01802,Wall Cleaner,1,0.0
+V01803,Bread,1,0.05
+V01803,Cheese,3,0.0
+V01803,Milk,3,0.05
+V01807,Bread,2,0.0
+V01807,Cheese,1,0.1
+V01807,Milk,1,0.0
+V01807,Polony,1,0.0
+V01809,Soap,1,0.0
+V01809,Tea,1,0.05
+V01810,Bread,2,0.0
+V01810,Milk,3,0.0
+V01812,Dish Soap,1,0.0
+V01812,Floor Cleaner,3,0.1
+V01812,Wall Cleaner,1,0.0
+V01813,Floor Cleaner,2,0.0
+V01813,Milk,1,0.0
+V01813,Soap,3,0.0
+V01813,Wall Cleaner,1,0.0
+V01817,Rice,3,0.05
+V01817,Soap,1,0.0
+V01817,Sponges,1,0.0
+V01817,TOOTHPASTE,3,0.0
+V01821,Eggs,2,0.0
+V01821,Sugar,1,0.05
+V01823,Bread,3,0.0
+V01823,Butter,1,0.0
+V01823,Cheese,2,0.0
+V01823,Wall Cleaner,1,0.0
+V01825,Bread,2,0.0
+V01825,Milk,3,0.05
+V01825,Tea,2,0.0
+V01827,Bread,2,0.0
+V01827,Dish Soap,2,0.0
+V01827,Milk,1,0.0
+V01827,Polony,1,0.0
+V01828,Dish Soap,1,0.0
+V01828,Toothpaste,1,0.0
+V01829,Bread,1,0.1
+V01829,Cheese,1,0.0
+V01829,Milk,3,0.1
+V01829,Polony,3,0.0
+V01830,Bread,1,0.1
+V01830,Butter,1,0.05
+V01830,Cheese,1,0.0
+V01830,Milk,1,0.0
+V01831,Butter,1,0.0
+V01831,Soap,2,0.1
+V01831,tea,1,0.1
+V01833,Bread,2,0.0
+V01833,Butter,2,0.05
+V01833,Milk,3,0.0
+V01833,Tea,1,0.05
+V01836,Butter,1,0.0
+V01836,Cheese,3,0.0
+V01836,Polony,1,0.0
+V01837,Butter,1,0.0
+V01837,Milk,3,0.0
+V01837,Polony,1,0.1
+V01838,Dish Soap,1,0.0
+V01838,Eggs,1,0.1
+V01838,Floor Cleaner,1,0.0
+V01841,Bread,2,0.0
+V01841,CHEESE,1,0.0
+V01841,Milk,3,0.05
+V01841,Polony,1,0.1
+V01842,Dish Soap,1,0.0
+V01842,Floor Cleaner,2,0.0
+V01842,Sponges,1,0.0
+V01842,Tea,1,0.0
+V01844,Floor Cleaner,2,0.05
+V01844,Rice,1,0.05
+V01844,Soap,2,0.0
+V01845,Dish Soap,1,0.0
+V01845,Eggs,1,0.1
+V01845,FLOOR CLEANER,1,0.1
+V01846,Dish Soap,2,0.0
+V01846,Floor Cleaner,1,0.0
+V01846,Wall Cleaner,2,0.1
+V01850,Bread,3,0.0
+V01850,Butter,3,0.0
+V01850,Milk ,1,0.05
+V01852,Cheese,2,0.1
+V01852,Eggs,2,0.1
+V01852,Milk,1,0.0
+V01852,Polony,1,0.0
+V01854,Bread,3,0.0
+V01854,Cheese,1,0.0
+V01854,Milk,1,0.0
+V01855,Cooking Oil,1,0.0
+V01855,Rice,2,0.05
+V01855,Soap,2,0.0
+V01855,Sugar,1,0.0
+V01856,Dish Soap,1,0.0
+V01856,Floor Cleaner,2,0.1
+V01856,Sponges,1,0.0
+V01857,Cooking Oil,1,0.05
+V01857,Dish Soap,3,0.0
+V01857,Rice,2,0.05
+V01858,Dish Soap,3,0.05
+V01858,floor cleaner,1,0.0
+V01858,Wall Cleaner,1,0.1
+V01859,Dish Soap,1,0.0
+V01859,Floor Cleaner,3,0.0
+V01859,Wall Cleaner,1,0.0
+V01860,Butter,1,0.0
+V01860,Polony,2,0.05
+V01860,Sponges,1,0.05
+V01860,Sugar,3,0.05
+V01861,Dish Soap,3,0.0
+V01861,Floor Cleaner,1,0.0
+V01863,Dish Soap,2,0.0
+V01863,Floor Cleaner,1,0.0
+V01863,Sponges,3,0.0
+V01863,Wall Cleaner,3,0.0
+V01866,Floor Cleaner,1,0.0
+V01866,Sponges,1,0.05
+V01867,Bread,2,0.1
+V01867,Polony,2,0.1
+V01869,Cheese,1,0.1
+V01869,Eggs,3,0.0
+V01869,Tea,1,0.0
+V01870,Bread,3,0.0
+V01870,Butter,2,0.0
+V01870,Cheese,1,0.0
+V01870,Milk,1,0.0
+V01871,Bread,1,0.1
+V01871,Butter,2,0.0
+V01871,Milk,1,0.0
+V01871,Polony,1,0.1
+V01874,Dish Soap,3,0.0
+V01874,Floor Cleaner,1,0.05
+V01874,Wall Cleaner,1,0.05
+V01875,Sponges,1,0.05
+V01875,Tea,1,0.05
+V01875,Toothpaste,2,0.05
+V01876,Bread,1,0.05
+V01876,Floor Cleaner,2,0.05
+V01876,Sponges,1,0.1
+V01876,Wall Cleaner,1,0.0
+V01878,Bread,1,0.0
+V01878,Butter,3,0.05
+V01878,Cheese,1,0.1
+V01878,Milk,2,0.0
+V01878,Soap,1,0.05
+V01879,Bread,2,0.05
+V01879,Rice,3,0.05
+V01879,Soap,1,0.1
+V01880,Dish Soap,1,0.05
+V01880,Floor Cleaner,2,0.0
+V01880,Sponges,2,0.0
+V01880,WALL CLEANER,2,0.1
+V01881,dish soap,2,0.1
+V01881,Eggs,3,0.0
+V01881,Floor Cleaner,1,0.0
+V01885,Bread,3,0.0
+V01885,Toothpaste,1,0.0
+V01885,Wall Cleaner,1,0.0
+V01886,Bread,1,0.05
+V01886,Cheese,1,0.0
+V01886,Polony,1,0.0
+V01887,Bread,2,0.0
+V01887,Butter,1,0.0
+V01887,Floor Cleaner,3,0.1
+V01887,Milk,2,0.0
+V01888,Dish Soap,1,0.0
+V01888,Floor Cleaner,3,0.0
+V01888,Wall Cleaner,3,0.0
+V01889,Bread,1,0.0
+V01889,Cheese,2,0.05
+V01889,Milk,1,0.0
+V01889,Polony,3,0.0
+V01890,Eggs,2,0.1
+V01890,Polony,3,0.0
+V01890,Sugar,2,0.0
+V01892,Bread,2,0.0
+V01892,Polony,2,0.1
+V01895,Dish Soap,1,0.0
+V01895,Floor Cleaner ,1,0.0
+V01895,Sponges,1,0.0
+V01895,Wall Cleaner,3,0.0
+V01896,Bread,2,0.0
+V01896,butter,3,0.1
+V01896,MILK,2,0.0
+V01896,Sugar,2,0.1
+V01900,Eggs,1,0.05
+V01900,Floor Cleaner,2,0.0
+V01900,Polony,3,0.0
+V01900,Soap,3,0.1
+V01900,Sponges,1,0.0
+V01903,Sponges,1,0.0
+V01903,Tea,3,0.0
+V01904,Bread,1,0.1
+V01904,Polony,1,0.0
+V01904,Toothpaste,2,0.1
+V01905,Bread,2,0.0
+V01905,Cheese,2,0.0
+V01905,Milk,3,0.0
+V01905,Rice,1,0.0
+V01907,Butter,3,0.1
+V01907,Wall Cleaner,2,0.1
+V01911,Floor Cleaner,3,0.1
+V01911,Sponges,1,0.0
+V01911,Toothpaste,2,0.05
+V01911,Wall Cleaner,2,0.0
+V01913,Bread,1,0.0
+V01913,Butter,1,0.0
+V01913,Cooking Oil,2,0.0
+V01913,Dish Soap,2,0.0
+V01913,Milk,2,0.1
+V01914,Cooking Oil,1,0.0
+V01914,Floor Cleaner,1,0.05
+V01914,Sponges,3,0.0
+V01915,Polony,3,0.0
+V01915,Wall Cleaner,2,0.0
+V01916,Dish Soap,1,0.05
+V01916,Floor Cleaner,1,0.0
+V01916,Wall Cleaner,3,0.0
+V01918,Bread,1,0.0
+V01918,Cooking Oil,2,0.0
+V01918,Sugar,1,0.05
+V01918,Tea,2,0.0
+V01918,Toothpaste,3,0.0
+V01921,Floor Cleaner,2,0.1
+V01921,Milk,2,0.0
+V01921,Sponges,3,0.0
+V01921,Wall Cleaner,1,0.0
+V01922,Dish Soap,1,0.05
+V01922,Floor Cleaner,3,0.0
+V01922,Sponges,1,0.05
+V01922,Wall Cleaner,3,0.0
+V01923,bread,1,0.1
+V01923,Butter,1,0.05
+V01923,Cheese ,1,0.0
+V01925,Polony,2,0.1
+V01925,Sugar,2,0.0
+V01925,toothpaste,3,0.0
+V01927,Dish Soap,1,0.0
+V01927,Floor Cleaner,3,0.0
+V01927,Sponges,1,0.0
+V01927,Sugar,3,0.0
+V01928,Eggs,1,0.05
+V01928,Rice,3,0.0
+V01928,Soap,2,0.05
+V01928,Toothpaste,1,0.0
+V01932,Floor Cleaner,2,0.0
+V01932,Polony,2,0.0
+V01932,Sugar,3,0.0
+V01932,Tea,1,0.05
+V01932,Wall Cleaner,1,0.0
+V01934,Soap,2,0.1
+V01934,Sponges,1,0.05
+V01934,Sugar,2,0.05
+V01934,Toothpaste,1,0.0
+V01935,Bread,1,0.0
+V01935,Cheese,2,0.05
+V01935,Milk,1,0.0
+V01937,Bread ,1,
+V01937,Sponges,1,0.0
+V01937,Toothpaste,2,0.05
+V01937,Wall Cleaner,1,0.0
+V01939,Polony,1,0.0
+V01939,Sugar,1,0.1
+V01939,Wall Cleaner,3,0.0
+V01940,Bread,1,0.1
+V01940,Butter,2,0.05
+V01940,Milk ,2,0.1
+V01942,Bread,2,0.0
+V01942,Eggs,3,0.0
+V01944,BREAD,1,0.05
+V01944,Butter,2,0.0
+V01944,cooking oil,1,0.05
+V01944,Eggs,3,0.1
+V01946,Butter,2,0.0
+V01946,Dish Soap,3,0.05
+V01946,FLOOR CLEANER,2,0.0
+V01946,Sugar,1,0.1
+V01947,Bread,2,0.05
+V01947,Milk,1,0.0
+V01947,Toothpaste,1,0.1
+V01948,Butter,1,0.0
+V01948,Cooking Oil,2,0.0
+V01948,Polony,1,0.0
+V01948,Wall Cleaner,3,0.1
+V01951,Floor Cleaner,3,0.0
+V01951,Milk,1,0.05
+V01952,Butter,1,0.05
+V01952,Cheese,2,0.1
+V01952,Cooking Oil,2,0.1
+V01952,Tea,1,0.0
+V01953,Eggs,3,0.0
+V01953,Floor Cleaner,3,0.05
+V01953,Polony,2,0.1
+V01953,Wall Cleaner,3,0.0
+V01954,Bread,1,0.0
+V01954,Dish Soap,2,0.1
+V01954,Milk,1,0.05
+V01954,Polony,2,0.05
+V01956,Bread,2,0.1
+V01956,Butter,3,0.05
+V01956,Floor Cleaner,1,0.0
+V01956,Milk,1,0.0
+V01958,Floor Cleaner,2,0.0
+V01958,Rice,1,0.1
+V01961,Milk,3,0.0
+V01961,Soap,2,0.1
+V01961,Sponges,2,0.0
+V01961,Toothpaste,2,0.1
+V01963,Bread,1,0.05
+V01963,Butter,2,0.1
+V01963,Tea,2,0.0
+V01964,Butter,1,0.0
+V01964,Eggs,1,0.0
+V01964,Milk,3,0.0
+V01964,Soap,1,0.05
+V01966,BREAD,1,0.0
+V01966,Milk,2,0.05
+V01966,Polony,2,0.0
+V01967,Bread,2,0.1
+V01967,Cheese,3,0.0
+V01967,Cooking Oil,2,0.1
+V01967,Milk,3,0.0
+V01967,Toothpaste,1,0.0
+V01968,Bread,2,0.0
+V01968,Butter,1,0.0
+V01968,Milk ,1,0.0
+V01968,Polony,2,0.0
+V01969,Bread,3,0.0
+V01969,Butter,1,0.0
+V01969,Dish Soap,1,0.1
+V01969,Milk,2,0.0
+V01969,Polony,1,0.1
+V01973,SUGAR,1,0.0
+V01973,Toothpaste,1,0.0
+V01974,Cheese,1,0.0
+V01974,Polony,1,0.0
+V01974,Tea,1,0.0
+V01975,Eggs,1,0.1
+V01975,Soap,1,0.0
+V01977,Dish Soap,2,0.05
+V01977,Floor Cleaner,1,0.0
+V01977,Polony,1,0.1
+V01977,Wall Cleaner,1,0.0
+V01979,Butter ,2,0.05
+V01979,Dish Soap,3,0.0
+V01979,Floor Cleaner,2,0.0
+V01979,Wall Cleaner,2,0.0
+V01980,Cooking Oil,2,0.05
+V01980,Sponges,3,0.0
+V01982,Bread,3,0.0
+V01982,Butter,2,0.1
+V01982,Cheese,1,0.0
+V01982,Eggs,1,0.0
+V01982,Milk,1,0.0
+V01985,Dish Soap,1,0.1
+V01985,Floor Cleaner,2,0.0
+V01985,Sponges,1,0.0
+V01985,Tea,3,0.1
+V01985,Wall Cleaner,1,0.0
+V01986,Bread,3,0.0
+V01986,Butter,1,0.1
+V01986,Milk,2,0.0
+V01988,BREAD,1,0.1
+V01988,Butter,1,0.05
+V01988,Cheese ,1,0.0
+V01988,Milk,2,0.0
+V01988,Polony,1,0.0
+V01989,Butter,3,0.1
+V01989,Floor Cleaner,1,0.0
+V01989,Rice,3,
+V01990,Bread,3,0.05
+V01990,Butter,2,0.0
+V01990,Cheese,3,0.05
+V01990,Milk,2,0.0
+V01992,Dish Soap,2,0.0
+V01992,Milk,1,0.1
+V01993,Cooking Oil,2,0.0
+V01993,Dish Soap,3,0.1
+V01993,Floor Cleaner,2,0.05
+V01993,Sponges,1,0.0
+V01994,Floor Cleaner,1,0.0
+V01994,Polony,2,0.1
+V01994,Sugar,1,0.1
+V01998,Bread,2,0.05
+V01998,milk,2,0.0
+V01998,Polony,2,0.0
+V01999,Dish Soap,1,0.0
+V01999,Floor Cleaner,1,0.0
+V01999,Rice,2,0.05
+V01999,Sponges,2,0.1
+V01999,Wall Cleaner,2,0.0
+V02004,Bread,3,0.0
+V02004,Butter ,2,0.0
+V02004,Milk,1,0.0
+V02008,Bread,3,0.0
+V02008,Butter,3,0.0
+V02008,Milk,2,0.05
+V02011,Bread,2,0.0
+V02011,Butter,1,0.0
+V02011,Milk ,1,0.0
+V02015,Eggs,3,0.1
+V02015,Milk,1,0.05
+V02015,SPONGES,1,0.1
+V02015,Toothpaste,2,0.0
+V02019,Bread ,3,0.0
+V02019,Milk,2,0.05
+V02019,POLONY,3,0.1
+V02020,Bread,1,0.0
+V02020,Milk,1,0.0
+V02020,Polony,1,0.1
+V02021,Bread,2,0.0
+V02021,Butter,2,0.1
+V02021,Milk,1,0.05
+V02021,Soap,2,0.05
+V02023,Floor Cleaner,3,0.0
+V02023,Sponges,2,0.1
+V02023,Wall Cleaner,2,0.1
+V02024,Dish Soap,3,0.05
+V02024,Floor Cleaner,2,0.1
+V02024,Sponges,1,0.0
+V02024,Wall Cleaner,2,0.05
+V02025,Bread,2,0.1
+V02025,Milk,1,0.1
+V02025,Polony,2,0.0
+V02025,Sponges,2,0.05
+V02030,Bread,1,0.0
+V02030,Cheese,1,0.0
+V02030,Milk,3,0.05
+V02030,Sponges,1,0.0
+V02031,Cooking Oil,3,0.0
+V02031,Sponges,2,0.05
+V02031,Tea,1,0.05
+V02033,Cooking Oil,2,0.0
+V02033,Floor Cleaner,2,0.0
+V02033,soap,1,0.0
+V02037,Bread,3,0.1
+V02037,Cheese,2,0.0
+V02037,Polony,3,0.1
+V02038,Bread,1,0.05
+V02038,Milk,1,0.0
+V02038,Polony,1,0.0
+V02039,Bread,2,0.1
+V02039,Butter,2,0.0
+V02039,Cooking Oil,1,0.0
+V02039,Eggs,2,0.0
+V02039,Rice,2,0.0
+V02040,Bread,1,0.0
+V02040,Butter,1,0.1
+V02040,Milk,2,0.05
+V02041,Sponges,1,0.1
+V02041,Sugar,1,0.05
+V02044,Bread,1,0.05
+V02044,Butter,3,0.0
+V02044,Cheese,3,0.0
+V02044,Milk,3,0.0
+V02044,Polony,2,0.0
+V02045,Cheese,3,0.0
+V02045,Cooking Oil,1,0.0
+V02045,Soap,1,0.0
+V02045,Sponges,3,0.1
+V02046,Bread,1,0.0
+V02046,Butter,2,0.1
+V02046,Cheese,3,0.0
+V02046,Milk,2,0.0
+V02048,Bread,2,0.0
+V02048,Milk,2,0.05
+V02048,rice,2,0.05
+V02048,Soap,3,0.0
+V02054,Floor Cleaner,1,0.0
+V02054,Sponges,2,0.0
+V02054,Wall Cleaner,1,0.0
+V02055,Bread,1,0.0
+V02055,Butter,2,0.1
+V02055,Eggs,3,0.0
+V02055,Milk,2,0.0
+V02057,Bread,3,0.05
+V02057,Sugar,1,0.0
+V02059,Cheese,1,0.0
+V02059,Floor Cleaner,2,0.0
+V02059,Sponges,1,0.0
+V02061,Butter,1,0.0
+V02061,Sugar,3,0.0
+V02061,Tea,1,0.0
+V02064,Dish Soap,1,0.0
+V02064,Floor Cleaner,2,0.0
+V02064,Wall Cleaner,3,0.0
+V02065,Bread,2,0.0
+V02065,milk,1,0.05
+V02065,Polony,2,0.0
+V02065,Wall Cleaner,3,0.1
+V02066,Dish Soap,2,0.05
+V02066,Floor Cleaner,2,0.05
+V02066,Wall Cleaner,2,0.0
+V02069,Bread,1,0.0
+V02069,Butter,2,0.0
+V02069,Cheese,3,0.05
+V02069,Milk ,1,0.05
+V02070,Dish Soap,3,0.1
+V02070,Floor Cleaner,3,0.0
+V02070,Soap,1,0.05
+V02071,Bread,1,0.0
+V02071,Milk,1,0.0
+V02072,bread,1,0.05
+V02072,Cheese,2,0.0
+V02072,Floor Cleaner,2,0.0
+V02072,Tea,3,0.0
+V02074,Bread,1,0.05
+V02074,Butter,1,0.0
+V02074,Milk,3,0.05
+V02075,Dish Soap,1,0.05
+V02075,Tea,1,0.0
+V02077,Bread,1,0.05
+V02077,Eggs,3,0.1
+V02077,Floor Cleaner,1,0.0
+V02077,Sugar,2,0.0
+V02078,Cooking Oil,1,0.0
+V02078,Milk,3,0.05
+V02078,Soap,2,0.0
+V02078,Wall Cleaner,3,0.0
+V02080,Cooking Oil,2,0.05
+V02080,Floor Cleaner,1,0.1
+V02080,Sponges,1,0.05
+V02080,Toothpaste,3,0.0
+V02082,Floor Cleaner,2,0.0
+V02082,Sponges,3,0.0
+V02083,Bread,1,0.05
+V02083,Milk,2,0.1
+V02083,Toothpaste,1,0.0
+V02085,Bread,3,0.0
+V02085,Butter,1,0.0
+V02085,Cheese,2,0.1
+V02085,Dish Soap,2,0.0
+V02085,Tea,1,0.05
+V02086,Bread,2,0.1
+V02086,Butter,3,0.0
+V02086,Milk,1,0.1
+V02086,Polony,2,0.1
+V02087,Bread,3,0.1
+V02087,Butter,2,0.0
+V02087,Cheese,2,0.0
+V02087,Soap,1,0.05
+V02087,Tea,2,0.0
+V02088,Dish Soap,1,0.0
+V02088,Milk,1,0.1
+V02088,Rice,2,0.0
+V02088,Sugar,1,0.05
+V02091,Floor Cleaner,2,0.0
+V02091,Rice,1,0.0
+V02091,Soap,2,0.0
+V02092,Bread,1,0.0
+V02092,Polony,2,0.0
+V02092,Wall Cleaner,2,0.0
+V02094,Milk,3,0.0
+V02094,Sponges,1,0.0
+V02094,Tea,3,0.1
+V02096,Bread,2,0.0
+V02096,Butter,1,0.0
+V02096,Cheese,3,0.1
+V02096,Milk,2,0.0
+V02096,Polony,1,0.0
+V02097,Bread,2,0.1
+V02097,butter,1,0.05
+V02097,Milk ,1,0.1
+V02101,Bread,1,0.05
+V02101,Cooking Oil,1,0.0
+V02101,Eggs,2,0.05
+V02101,floor cleaner,1,0.1
+V02104,Dish Soap,2,0.1
+V02104,Floor Cleaner,1,0.0
+V02104,Polony,3,0.0
+V02104,Soap,2,0.1
+V02104,Sponges,1,0.0
+V02105,Bread,2,0.0
+V02105,Butter,2,0.0
+V02105,Cheese,2,0.1
+V02105,Milk,1,0.0
+V02106,Cooking Oil,2,0.1
+V02106,MILK,2,0.05
+V02106,Tea,2,0.0
+V02108,Bread,1,0.05
+V02108,Cheese,3,0.1
+V02108,Milk,1,0.05
+V02108,Soap,3,0.1
+V02109,Bread,1,0.1
+V02109,Cheese,3,0.0
+V02109,Milk,2,0.1
+V02113,Dish Soap,1,0.0
+V02113,Floor Cleaner,2,0.0
+V02113,Soap,2,0.05
+V02114,Bread,1,0.05
+V02114,Butter,1,0.0
+V02114,Cheese,2,0.0
+V02114,Milk,1,0.1
+V02115,Eggs,2,0.05
+V02115,Milk,1,0.1
+V02115,Soap,1,0.1
+V02115,sponges,1,0.1
+V02115,Wall Cleaner,2,0.0
+V02116,Bread,3,0.0
+V02116,Floor Cleaner,2,0.0
+V02117,Dish Soap,1,0.0
+V02117,Floor Cleaner,3,0.0
+V02117,Sugar,2,0.0
+V02121,Dish Soap,1,0.0
+V02121,Floor Cleaner,1,0.0
+V02121,Tea,2,0.0
+V02121,Wall Cleaner,1,0.0
+V02122,Cooking Oil,1,0.1
+V02122,Sugar,2,0.0
+V02124,Floor Cleaner,2,0.0
+V02124,Sponges,2,0.0
+V02125,Cheese,1,0.0
+V02125,Toothpaste,1,0.05
+V02127,Bread,2,0.0
+V02127,Butter,1,0.0
+V02127,Soap,2,0.0
+V02128,Butter,1,0.05
+V02128,eggs,2,0.1
+V02128,Rice,1,0.0
+V02130,Dish Soap,1,0.1
+V02130,Floor Cleaner,2,0.0
+V02130,Toothpaste,1,0.0
+V02130,Wall Cleaner,2,0.05
+V02132,BREAD,1,0.0
+V02132,Milk,1,0.0
+V02132,Polony,2,0.0
+V02133,BREAD,1,0.0
+V02133,Butter,1,0.05
+V02133,Dish Soap,3,0.0
+V02133,Eggs,1,0.0
+V02133,Milk,2,0.0
+V02134,Cheese,2,0.0
+V02134,Cooking Oil,2,0.1
+V02134,Floor Cleaner,1,0.0
+V02134,Tea ,1,0.0
+V02135,Bread,1,0.0
+V02135,Butter,1,0.0
+V02135,Cheese,1,0.1
+V02137,Dish Soap,2,0.0
+V02137,floor cleaner,2,0.05
+V02137,Sponges,2,0.0
+V02138,Bread,1,0.0
+V02138,Butter,1,0.1
+V02138,Polony,1,0.0
+V02139,Bread,1,0.05
+V02139,MILK,1,0.0
+V02139,Polony,1,0.0
+V02139,Sugar,2,0.05
+V02143,Cooking Oil,3,0.0
+V02143,Dish Soap,1,0.0
+V02143,Sponges,1,0.0
+V02143,Wall Cleaner,1,0.05
+V02146,Bread,3,0.0
+V02146,Dish Soap,3,0.1
+V02146,Polony,3,0.05
+V02146,Soap,2,0.05
+V02146,Wall Cleaner,2,0.0
+V02147,Cooking Oil,1,0.1
+V02147,Floor Cleaner,1,0.05
+V02147,Wall Cleaner,2,0.0
+V02148,Dish Soap,1,0.1
+V02148,Floor Cleaner,2,0.0
+V02148,SPONGES,2,0.0
+V02148,Wall Cleaner,3,0.0
+V02150,Eggs,1,0.0
+V02150,Milk,1,0.05
+V02150,Polony,2,0.0
+V02150,Soap,2,0.0
+V02151,Milk,3,0.0
+V02151,Sugar,1,0.0
+V02151,Toothpaste,1,0.05
+V02152,Butter,1,0.05
+V02152,Dish Soap,3,0.0
+V02152,Floor Cleaner,1,0.05
+V02152,Wall Cleaner,2,0.05
+V02156,Bread,2,0.0
+V02156,Butter,3,0.05
+V02156,Floor Cleaner,1,0.05
+V02156,Milk,2,0.0
+V02156,Polony,2,0.0
+V02159,Bread,2,0.0
+V02159,Milk,3,0.05
+V02159,Toothpaste,1,0.05
+V02162,Dish Soap,1,0.0
+V02162,Floor Cleaner,2,0.0
+V02162,Wall Cleaner,2,0.0
+V02163,Bread,3,0.0
+V02163,Milk,1,0.1
+V02163,Sugar,1,0.0
+V02164,Bread,2,0.0
+V02164,Cheese,2,0.0
+V02164,Milk,1,0.05
+V02167,Bread,1,0.05
+V02167,Butter,1,0.1
+V02167,Milk,1,0.05
+V02168,Bread,3,0.0
+V02168,Butter,2,0.0
+V02168,Milk,1,0.1
+V02169,Dish Soap,1,0.0
+V02169,Floor Cleaner,1,0.0
+V02169,WALL CLEANER,2,0.0
+V02170,Bread,1,0.05
+V02170,Butter,1,0.0
+V02170,Milk,1,0.0
+V02172,bread,1,0.0
+V02172,Milk,1,0.0
+V02173,Bread,3,0.0
+V02173,Cheese,2,0.1
+V02173,Milk,1,0.1
+V02177,Milk,2,0.05
+V02177,Tea,3,0.0
+V02177,Toothpaste,1,0.05
+V02179,cheese,2,0.05
+V02179,dish soap,3,0.0
+V02181,Floor Cleaner,3,0.0
+V02181,Polony,1,0.0
+V02181,Sponges,1,0.0
+V02181,Wall Cleaner,3,0.0
+V02183,Bread,1,0.0
+V02183,Milk,3,0.0
+V02183,Tea,2,0.1
+V02184,Dish Soap,1,0.05
+V02184,Floor Cleaner,2,0.1
+V02186,Bread,2,0.0
+V02186,Milk,3,0.0
+V02186,Wall Cleaner,1,0.0
+V02187,Bread,1,0.05
+V02187,Milk,2,0.05
+V02188,Butter,1,0.0
+V02188,Cooking Oil,2,0.05
+V02188,Rice,2,0.1
+V02188,Sugar,1,0.0
+V02188,Toothpaste,2,0.0
+V02190,Bread,2,0.0
+V02190,Butter,1,0.05
+V02190,Milk,3,0.0
+V02192,Bread,2,0.0
+V02192,Butter,1,0.0
+V02192,Milk,2,0.05
+V02192,Polony,1,0.0
+V02192,Sponges,1,0.0
+V02194,Bread,2,0.05
+V02194,Milk,1,0.05
+V02194,Toothpaste,2,0.0
+V02194,Wall Cleaner,2,0.0
+V02195,Bread,2,0.0
+V02195,Cheese,3,0.05
+V02196,Polony,3,0.0
+V02196,Rice,2,0.05
+V02196,Soap,3,0.0
+V02198,Bread,3,0.0
+V02198,Cheese,1,0.05
+V02198,Dish Soap,3,0.1
+V02198,Eggs,3,0.0
+V02199,Soap,1,0.1
+V02199,Sponges,2,0.0
+V02199,Wall Cleaner,1,0.0
+V02201,Dish Soap,2,0.0
+V02201,Floor Cleaner,1,0.05
+V02201,Wall Cleaner,3,0.0
+V02204,Soap,2,0.0
+V02204,Sponges,2,0.0
+V02209,Bread,1,0.0
+V02209,Butter,1,0.1
+V02209,Milk,1,0.1
+V02210,Bread,2,0.1
+V02210,Butter,2,0.0
+V02210,Milk,3,0.0
+V02210,Polony,2,0.0
+V02212,Bread,3,0.0
+V02212,Dish Soap,1,0.0
+V02213,Bread,3,0.0
+V02213,Butter,3,0.05
+V02213,Cheese,2,0.05
+V02213,Polony,1,0.0
+V02215,DISH SOAP,1,0.0
+V02215,Floor Cleaner,1,0.0
+V02223,Floor Cleaner,3,0.0
+V02223,Soap,1,0.1
+V02223,Sponges,1,0.0
+V02224,Bread,1,0.0
+V02224,Milk,1,0.0
+V02225,Bread,3,0.0
+V02225,Butter,1,0.0
+V02225,Cooking Oil,3,0.05
+V02225,Dish Soap,1,0.0
+V02227,Butter,1,0.0
+V02227,Sponges,2,0.0
+V02228,Cheese,1,0.1
+V02228,Milk,3,0.05
+V02228,Sugar,1,0.1
+V02229,Bread,2,0.0
+V02229,Cheese,3,0.0
+V02229,Milk,2,0.1
+V02229,Polony,2,0.0
+V02230,Bread,1,0.0
+V02230,Butter,1,0.0
+V02230,Cheese,2,0.0
+V02230,Floor Cleaner,1,0.0
+V02230,Milk,1,0.1
+V02232,Dish Soap,2,0.1
+V02232,Floor Cleaner,1,0.0
+V02232,Soap,1,0.05
+V02232,Wall Cleaner,2,0.0
+V02234,Cheese,1,0.1
+V02234,Eggs,1,0.05
+V02234,Tea,1,0.0
+V02234,Wall Cleaner,2,0.0
+V02236,Floor Cleaner,1,0.0
+V02236,Polony,2,0.0
+V02236,Tea,1,0.0
+V02236,Toothpaste,1,0.0
+V02245,Cooking Oil,1,0.0
+V02245,milk,3,0.1
+V02246,Eggs,2,0.0
+V02246,Rice,2,0.0
+V02248,Bread,2,0.0
+V02248,CHEESE,1,0.1
+V02248,Eggs,1,0.0
+V02249,Dish Soap,1,0.0
+V02249,Floor Cleaner,3,0.05
+V02249,Wall Cleaner,1,0.05
+V02252,Bread,1,0.0
+V02252,Cheese,1,0.0
+V02252,toothpaste,1,0.1
+V02254,Bread,1,0.1
+V02254,Cheese,1,0.1
+V02254,Cooking Oil,1,0.05
+V02254,Polony,2,0.0
+V02254,Soap,1,0.0
+V02255,Bread,2,0.0
+V02255,Butter,3,0.05
+V02255,Cheese,1,0.1
+V02255,Milk,1,0.1
+V02257,Dish Soap,3,0.1
+V02257,Rice,1,0.0
+V02258,Bread,2,0.0
+V02258,Butter,1,0.0
+V02258,Cheese,3,0.05
+V02258,Milk,3,0.0
+V02258,Polony,2,0.05
+V02259,Floor Cleaner,3,0.05
+V02259,Rice,2,0.05
+V02259,Sponges,1,0.05
+V02259,Wall Cleaner,1,0.05
+V02262,Bread,2,0.05
+V02262,Cheese,2,0.0
+V02262,Cooking Oil,3,0.0
+V02265,Polony,2,0.0
+V02265,Toothpaste,2,0.0
+V02268,Floor Cleaner,1,0.0
+V02268,Sponges,3,0.0
+V02268,Wall Cleaner,3,0.1
+V02269,Dish Soap,2,0.0
+V02269,Floor Cleaner,1,0.0
+V02269,Sponges,2,0.0
+V02269,Tea,1,0.0
+V02269,Wall Cleaner,2,0.0
+V02270,Rice,1,0.0
+V02270,Tea,1,0.1
+V02272,Cheese,1,0.05
+V02272,Sugar,2,0.0
+V02272,Tea,3,0.0
+V02273,cheese,2,0.0
+V02273,Dish Soap,1,0.05
+V02275,Bread,1,0.0
+V02275,BUTTER,1,0.0
+V02275,Cheese,1,0.05
+V02275,Milk,2,0.1
+V02276,Bread,1,0.0
+V02276,Butter,1,0.1
+V02276,Cheese,1,0.1
+V02276,Milk,1,0.0
+V02277,Dish Soap,1,0.0
+V02277,Tea,1,0.1
+V02277,Toothpaste,1,0.1
+V02284,Dish Soap,2,0.05
+V02284,Floor Cleaner,2,0.0
+V02284,Sponges,2,0.05
+V02285,Bread,1,0.1
+V02285,Butter,3,0.0
+V02285,Milk,2,0.0
+V02285,Polony,1,0.0
+V02287,Bread,3,0.0
+V02287,Butter,2,0.05
+V02287,Milk,3,0.05
+V02288,Dish Soap,1,0.05
+V02288,Floor Cleaner,2,0.0
+V02288,Wall Cleaner,3,0.0
+V02289,Floor Cleaner,3,0.0
+V02289,Sugar,2,0.0
+V02289,Wall Cleaner,1,0.0
+V02291,Butter,1,0.1
+V02291,Rice,1,0.0
+V02291,Sponges,3,0.0
+V02293,Dish Soap,2,0.0
+V02293,Floor Cleaner,1,0.05
+V02293,Wall Cleaner,1,0.0
+V02298,Bread,1,0.1
+V02298,Cooking Oil,2,0.0
+V02298,Sugar,2,0.0
+V02298,Toothpaste,2,0.0
+V02299,Bread,2,0.05
+V02299,Butter,1,0.0
+V02299,Cheese,3,0.0
+V02299,Milk,3,0.05
+V02300,Floor Cleaner,2,0.05
+V02300,Wall Cleaner,1,0.05
+V02302,Milk,1,0.0
+V02302,Toothpaste,2,0.0
+V02303,Bread ,2,0.05
+V02303,Butter,2,0.05
+V02303,POLONY,1,0.0
+V02304,Bread,3,0.0
+V02304,Butter,1,0.1
+V02304,Cheese,1,0.0
+V02304,Milk,1,0.0
+V02304,Polony,3,0.0
+V02305,Bread,3,0.0
+V02305,Butter,2,0.0
+V02305,Milk ,1,0.1
+V02305,Polony,3,0.0
+V02307,Bread,2,0.05
+V02307,Dish Soap ,1,0.05
+V02307,Floor Cleaner,1,0.05
+V02307,Sugar,1,0.0
+V02307,Tea,1,0.1
+V02308,Bread,2,0.0
+V02308,Butter,1,0.0
+V02308,Milk,1,0.0
+V02310,Bread,1,0.0
+V02310,Butter,2,0.0
+V02310,Cheese,2,0.0
+V02319,Floor Cleaner,3,0.0
+V02319,Wall Cleaner,1,0.0
+V02320,Floor Cleaner,1,0.0
+V02320,Sugar,2,0.0
+V02320,Wall Cleaner,1,0.0
+V02321,Cooking Oil,1,0.0
+V02321,Floor Cleaner,2,0.0
+V02321,Sponges,1,0.0
+V02321,Tea,1,0.0
+V02322,Cooking Oil,2,0.0
+V02322,Polony,1,0.1
+V02322,Wall Cleaner,1,0.1
+V02324,Rice,2,0.0
+V02324,Sponges,1,0.0
+V02329,Cooking Oil,1,0.0
+V02329,sponges,1,0.0
+V02329,Wall Cleaner,2,0.05
+V02331,Dish Soap,1,0.0
+V02331,Floor Cleaner,2,0.05
+V02331,Sponges,1,0.05
+V02331,Wall Cleaner ,2,0.0
+V02333,Bread,2,0.0
+V02333,Cheese,3,0.1
+V02333,Polony,1,0.05
+V02333,Tea,1,0.0
+V02336,Dish Soap,1,0.1
+V02336,Floor Cleaner,1,0.0
+V02336,Wall Cleaner,1,0.1
+V02340,Floor Cleaner,3,0.1
+V02340,Polony,2,0.0
+V02340,Sugar,3,0.05
+V02341,Cooking Oil,2,0.0
+V02341,eggs,1,0.0
+V02341,Tea,1,0.1
+V02345,Bread,2,0.0
+V02345,Cheese,1,0.0
+V02345,Milk,1,0.0
+V02345,Polony,1,0.0
+V02349,Butter,2,0.05
+V02349,Milk,2,0.0
+V02349,Soap,1,0.0
+V02352,Cheese,2,0.1
+V02352,Floor Cleaner,2,0.1
+V02352,Sugar,2,0.0
+V02352,Wall Cleaner,1,0.1
+V02353,Bread,2,0.0
+V02353,Butter,3,0.05
+V02353,Milk,1,0.0
+V02355,Bread,1,0.1
+V02355,Dish Soap,2,0.05
+V02355,Floor Cleaner,1,0.0
+V02355,Sponges,2,0.05
+V02355,Tea,1,0.05
+V02359,Floor Cleaner,2,0.0
+V02359,Soap,2,0.1
+V02359,Sponges,1,0.0
+V02359,Wall Cleaner,1,0.0
+V02362,Milk,3,0.05
+V02362,Soap,1,0.0
+V02362,Sugar,2,0.1
+V02363,Sponges,1,0.05
+V02363,Tea,1,0.05
+V02364,Bread,1,0.1
+V02364,Butter,1,0.0
+V02364,Cheese,1,0.1
+V02364,Milk,1,0.1
+V02364,Polony,2,0.0
+V02365,Floor Cleaner,1,0.0
+V02365,Wall Cleaner,3,0.05
+V02367,Dish Soap,1,0.05
+V02367,Eggs,1,0.05
+V02368,Bread,2,0.0
+V02368,Butter,2,0.0
+V02368,Cheese,3,0.0
+V02368,Wall Cleaner,2,0.0
+V02369,Bread,2,0.0
+V02369,Cheese,3,0.0
+V02369,Milk,1,0.0
+V02370,Floor Cleaner,1,0.05
+V02370,sponges,2,0.1
+V02370,Wall Cleaner,2,0.05
+V02371,bread,2,0.0
+V02371,Polony,3,0.0
+V02371,Tea,2,0.0
+V02373,Bread,1,0.0
+V02373,Butter,3,0.0
+V02373,Milk,1,0.0
+V02374,Bread,2,0.1
+V02374,Cooking Oil,1,0.0
+V02374,Milk,1,0.0
+V02374,Tea,1,0.0
+V02379,Bread,1,0.1
+V02379,Butter,1,0.05
+V02379,Milk,1,0.1
+V02380,Milk,1,0.05
+V02380,Rice,3,0.0
+V02380,Sugar,1,0.1
+V02380,Toothpaste,3,0.0
+V02385,Bread,3,0.0
+V02385,Butter,1,0.0
+V02385,Cheese,3,0.1
+V02385,Rice,2,0.0
+V02386,Eggs,1,0.05
+V02386,Floor Cleaner,2,0.0
+V02386,Sponges,2,0.0
+V02386,Wall Cleaner,2,0.0
+V02388,bread,1,0.0
+V02388,Butter,1,0.1
+V02388,Milk,1,0.0
+V02388,Polony,1,0.0
+V02388,Sugar,2,0.1
+V02389,Dish Soap,1,0.0
+V02389,Eggs,2,0.0
+V02389,Floor Cleaner,1,0.1
+V02389,Sponges,1,0.1
+V02389,Wall Cleaner,2,0.05
+V02390,Bread,1,0.0
+V02390,Milk,1,0.05
+V02390,Soap,2,0.0
+V02391,Bread,3,0.1
+V02391,Cheese,2,0.0
+V02391,Milk,1,0.05
+V02391,Rice,1,0.0
+V02391,Wall Cleaner,2,0.0
+V02394,Bread,1,0.0
+V02394,Polony,1,0.1
+V02395,Dish Soap,2,0.0
+V02395,Floor Cleaner ,1,0.0
+V02395,Wall Cleaner,1,0.0
+V02396,Dish Soap,2,0.05
+V02396,Floor Cleaner,2,0.0
+V02396,Sponges,1,0.0
+V02396,Wall Cleaner,2,0.1
+V02397,Bread,1,0.0
+V02397,Dish Soap,2,0.05
+V02397,EGGS,1,0.1
+V02399,Bread,2,0.0
+V02399,Butter,2,0.05
+V02399,Milk,1,0.1
+V02400,Dish Soap,3,0.0
+V02400,Floor Cleaner,2,0.0
+V02400,Tea,2,0.0
+V02401,Bread,20,0.1
+V02401,Milk,10,0.1
+V02401,Butter,18,0.1
+V02401,Cheese,15,0.1
+V02401,Polony,15,0.1
+V02401,Eggs,13,0.1
+V02401,Floor Cleaner,14,0.1
+V02401,Wall Cleaner,14,0.1
+V02401,Dish Soap,13,0.1
+V02401,Sponges,10,0.1
+V02401,Rice,14,0.1
+V02401,Sugar,14,0.1
+V02401,tea,17,0.1
+V02401,Cooking Oil,15,0.1
+V02401,Soap,16,0.1
+V02401,Toothpaste,15,0.1
+V00916,Bread ,2,0.0
+V00169,Sponges,2,0.1
+V00221,Floor Cleaner,1,0.0

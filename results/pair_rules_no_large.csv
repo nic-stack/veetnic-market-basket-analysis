@@ -1,0 +1,111 @@
+product_a,product_b,orders_together,lift
+Bread,Butter,529,1.673
+Bread,Cheese,387,1.515
+Bread,Cooking Oil,83,0.689
+Bread,Dish Soap,95,0.334
+Bread,Eggs,66,0.6
+Bread,Floor Cleaner,98,0.264
+Bread,Milk,731,1.803
+Bread,Polony,341,1.476
+Bread,Rice,78,0.67
+Bread,Soap,59,0.552
+Bread,Sponges,85,0.361
+Bread,Sugar,72,0.674
+Bread,Tea,86,0.676
+Bread,Toothpaste,65,0.593
+Bread,Wall Cleaner,90,0.284
+Butter,Cheese,219,1.335
+Butter,Cooking Oil,46,0.595
+Butter,Dish Soap,56,0.307
+Butter,Eggs,37,0.524
+Butter,Floor Cleaner,87,0.365
+Butter,Milk,425,1.633
+Butter,Polony,191,1.288
+Butter,Rice,48,0.642
+Butter,Soap,35,0.51
+Butter,Sponges,53,0.35
+Butter,Sugar,49,0.714
+Butter,Tea,50,0.612
+Butter,Toothpaste,37,0.526
+Butter,Wall Cleaner,69,0.339
+Cheese,Cooking Oil,38,0.608
+Cheese,Dish Soap,62,0.42
+Cheese,Eggs,41,0.718
+Cheese,Floor Cleaner,67,0.348
+Cheese,Milk,297,1.412
+Cheese,Polony,156,1.302
+Cheese,Rice,42,0.695
+Cheese,Soap,35,0.631
+Cheese,Sponges,59,0.483
+Cheese,Sugar,40,0.721
+Cheese,Tea,48,0.727
+Cheese,Toothpaste,40,0.703
+Cheese,Wall Cleaner,69,0.419
+Cooking Oil,Dish Soap,64,0.919
+Cooking Oil,Floor Cleaner,66,0.726
+Cooking Oil,Milk,64,0.645
+Cooking Oil,Polony,37,0.655
+Cooking Oil,Rice,38,1.334
+Cooking Oil,Soap,32,1.223
+Cooking Oil,Sponges,43,0.746
+Cooking Oil,Sugar,30,1.147
+Cooking Oil,Tea,40,1.284
+Cooking Oil,Wall Cleaner,52,0.67
+Dish Soap,Eggs,53,0.834
+Dish Soap,Floor Cleaner,414,1.929
+Dish Soap,Milk,75,0.32
+Dish Soap,Polony,40,0.3
+Dish Soap,Rice,55,0.818
+Dish Soap,Soap,34,0.551
+Dish Soap,Sponges,196,1.44
+Dish Soap,Sugar,54,0.874
+Dish Soap,Tea,61,0.83
+Dish Soap,Toothpaste,46,0.726
+Dish Soap,Wall Cleaner,325,1.774
+Eggs,Floor Cleaner,52,0.626
+Eggs,Milk,63,0.695
+Eggs,Polony,39,0.755
+Eggs,Rice,31,1.191
+Eggs,Soap,36,1.507
+Eggs,Sponges,36,0.684
+Eggs,Tea,38,1.336
+Eggs,Wall Cleaner,42,0.593
+Floor Cleaner,Milk,77,0.252
+Floor Cleaner,Polony,62,0.356
+Floor Cleaner,Rice,72,0.82
+Floor Cleaner,Soap,55,0.682
+Floor Cleaner,Sponges,325,1.829
+Floor Cleaner,Sugar,52,0.645
+Floor Cleaner,Tea,72,0.75
+Floor Cleaner,Toothpaste,62,0.75
+Floor Cleaner,Wall Cleaner,486,2.032
+Milk,Polony,261,1.372
+Milk,Rice,52,0.543
+Milk,Soap,50,0.568
+Milk,Sponges,66,0.34
+Milk,Sugar,53,0.602
+Milk,Tea,59,0.563
+Milk,Toothpaste,57,0.632
+Milk,Wall Cleaner,90,0.345
+Polony,Rice,38,0.696
+Polony,Soap,35,0.698
+Polony,Sponges,54,0.489
+Polony,Sugar,34,0.678
+Polony,Tea,37,0.62
+Polony,Toothpaste,40,0.778
+Polony,Wall Cleaner,60,0.403
+Rice,Soap,31,1.227
+Rice,Sponges,48,0.862
+Rice,Wall Cleaner,53,0.707
+Soap,Sponges,46,0.9
+Soap,Tea,35,1.267
+Soap,Wall Cleaner,43,0.625
+Sponges,Sugar,38,0.743
+Sponges,Tea,60,0.985
+Sponges,Toothpaste,51,0.973
+Sponges,Wall Cleaner,240,1.582
+Sugar,Toothpaste,39,1.639
+Sugar,Wall Cleaner,43,0.625
+Tea,Toothpaste,36,1.271
+Tea,Wall Cleaner,53,0.647
+Toothpaste,Wall Cleaner,52,0.737

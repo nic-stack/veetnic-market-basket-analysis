@@ -1,0 +1,17 @@
+product,category,units,revenue,gross_profit,margin_pct
+Wall Cleaner,Cleaning,1211,5296.76,1663.76,31.4
+Floor Cleaner,Cleaning,1367,5290.4,1599.5,30.2
+Butter,Breakfast,1207,3517.5,1103.5,31.4
+Cheese,Breakfast,986,3348.04,883.04,26.4
+Milk,Breakfast,1515,2940.2,970.7,33.0
+Bread,Breakfast,1862,2705.35,843.35,31.2
+Dish Soap,Cleaning,1060,2569.72,872.78,34.0
+Rice,Grocery & Personal Care,449,2173.5,512.2,23.6
+Polony,Breakfast,882,2139.76,640.36,29.9
+Cooking Oil,Grocery & Personal Care,460,1786.2,452.2,25.3
+Sponges,Cleaning,878,1281.03,578.63,45.2
+Eggs,Breakfast,430,1245.45,299.45,24.0
+Tea,Grocery & Personal Care,474,1143.46,384.64,33.6
+Toothpaste,Grocery & Personal Care,423,1024.54,347.41,33.9
+Sugar,Grocery & Personal Care,415,805.0,265.5,33.0
+Soap,Grocery & Personal Care,402,580.05,218.25,37.6

@@ -1,0 +1,17 @@
+product_id,product_code,product_name,category,price,cost
+1,BRD01,Bread,Breakfast,1.5,1.0
+2,MLK01,Milk,Breakfast,2.0,1.3
+3,BTR01,Butter,Breakfast,3.0,2.0
+4,CHS01,Cheese,Breakfast,3.5,2.5
+5,PLN01,Polony,Breakfast,2.5,1.7
+6,EGG01,Eggs,Breakfast,3.0,2.2
+7,FLC01,Floor Cleaner,Cleaning,4.0,2.7
+8,WLC01,Wall Cleaner,Cleaning,4.5,3.0
+9,DSH01,Dish Soap,Cleaning,2.5,1.6
+10,SPG01,Sponges,Cleaning,1.5,0.8
+11,RCE01,Rice,Grocery & Personal Care,5.0,3.7
+12,SGR01,Sugar,Grocery & Personal Care,2.0,1.3
+13,TEA01,Tea,Grocery & Personal Care,2.5,1.6
+14,OIL01,Cooking Oil,Grocery & Personal Care,4.0,2.9
+15,SOP01,Soap,Grocery & Personal Care,1.5,0.9
+16,TPS01,Toothpaste,Grocery & Personal Care,2.5,1.6
